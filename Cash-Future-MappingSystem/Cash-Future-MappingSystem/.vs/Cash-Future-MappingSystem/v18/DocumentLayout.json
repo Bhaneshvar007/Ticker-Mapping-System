@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84E95718-C29E-4F68-9945-DA1D1DD1ABCC}|..\\Cylsys.Common\\Cylsys.Common.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\cylsys.common\\queryhandlerbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84E95718-C29E-4F68-9945-DA1D1DD1ABCC}|..\\Cylsys.Common\\Cylsys.Common.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\cylsys.common\\emsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\bal\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:bal\\reports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\controllers\\pageaccesslogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:controllers\\pageaccesslogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\bhaneshvar\\cash-future-mappingsystem\\cash-future-mappingsystem\\views\\reports\\brokerwisematchingreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:views\\reports\\brokerwisematchingreport.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\bal\\pageaccesslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:bal\\pageaccesslog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\views\\pageaccesslog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:views\\pageaccesslog\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\assets\\pageaccesslogs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:assets\\pageaccesslogs.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\assets\\brokerwisematreport.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:assets\\brokerwisematreport.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\PageAccessLog\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\PageAccessLog\\Index.cshtml",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\PageAccessLog\\Index.cshtml",
+              "RelativeToolTip": "Views\\PageAccessLog\\Index.cshtml",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAIwFUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2025-11-11T10:55:00.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PageAccessLog.cs",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\BAL\\PageAccessLog.cs",
+              "RelativeDocumentMoniker": "BAL\\PageAccessLog.cs",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\BAL\\PageAccessLog.cs",
+              "RelativeToolTip": "BAL\\PageAccessLog.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAewAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T11:04:00.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BrokerwiseMatchingReport.cshtml",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Reports\\BrokerwiseMatchingReport.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reports\\BrokerwiseMatchingReport.cshtml",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Views\\Reports\\BrokerwiseMatchingReport.cshtml",
+              "RelativeToolTip": "Views\\Reports\\BrokerwiseMatchingReport.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-11T11:45:11.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PageAccessLogController.cs",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Controllers\\PageAccessLogController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PageAccessLogController.cs",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Controllers\\PageAccessLogController.cs",
+              "RelativeToolTip": "Controllers\\PageAccessLogController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAIAwwCkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:53:25.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reports.cs",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\BAL\\Reports.cs",
+              "RelativeDocumentMoniker": "BAL\\Reports.cs",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\BAL\\Reports.cs",
+              "RelativeToolTip": "BAL\\Reports.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAIA0wFEAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:51:17.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EMSModel.cs",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cylsys.Common\\EMSModel.cs",
+              "RelativeDocumentMoniker": "..\\Cylsys.Common\\EMSModel.cs",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cylsys.Common\\EMSModel.cs",
+              "RelativeToolTip": "..\\Cylsys.Common\\EMSModel.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAnwHYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:52:13.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueryHandlerBase.cs",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cylsys.Common\\QueryHandlerBase.cs",
+              "RelativeDocumentMoniker": "..\\Cylsys.Common\\QueryHandlerBase.cs",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cylsys.Common\\QueryHandlerBase.cs",
+              "RelativeToolTip": "..\\Cylsys.Common\\QueryHandlerBase.cs",
+              "ViewState": "AgIAAMEBAAAAAAAAAAAewMsBAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:51:58.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PageAccessLogs.js",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\PageAccessLogs.js",
+              "RelativeDocumentMoniker": "Assets\\PageAccessLogs.js",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\PageAccessLogs.js",
+              "RelativeToolTip": "Assets\\PageAccessLogs.js",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowEMAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-11T10:59:54.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BrokerwiseMatReport.js",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\BrokerwiseMatReport.js",
+              "RelativeDocumentMoniker": "Assets\\BrokerwiseMatReport.js",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\BrokerwiseMatReport.js",
+              "RelativeToolTip": "Assets\\BrokerwiseMatReport.js",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAowGEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-11-11T10:59:39.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Bhaneshvar\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "Controllers\\ReportsController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA9wDIAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T10:53:43.948Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1270,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

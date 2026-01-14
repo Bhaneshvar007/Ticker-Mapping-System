@@ -1,0 +1,49 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+ 
+
+
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item"> <a class="nav-link text-dark" href="javascript:void(0);"><strong>Statistics</strong></a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/ConfirmationBroker">Broker Master</a> </li>
+    </ul>
+    <hr class="m-0">
+</div>
+<article class="col-md-12" ng-app="myApp" ng-controller="ConfirmationBrokerData">
+    <div class="pt-3">
+        <button class="btn btn-success float-right ml-1" ng-click="exportToExcel()">Export</button>
+
+        <div class="mb-4"> <a href="/ConfirmationBroker" class="btn btn-secondary float-right ml-1">+</a></div>
+    </div>
+</article>
+<br />
+<div ng-app="myApp" ng-controller="ConfirmationBrokerData">
+    <div style="overflow:auto">
+        <table class="table table-hover table-bordered" id="table_Broker">
+            <thead>
+                <tr style="background-color: #d3d3d3">
+                    @*<th>Sr. No</th>*@
+                    <th>ID</th>
+                    <th>Account</th>
+                    <th>Security</th>
+                    <th>Price</th>
+                    <th>Side</th>
+                    <th>Quantity</th>
+                    <th>Broker</th>
+                    <th>Reason</th>
+                    <th>LongNote1</th>
+                    <th>CreatedDate</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- DataTables will populate this automatically -->
+            </tbody>
+        </table>
+    </div>
+</div>
+

@@ -1,0 +1,95 @@
+﻿
+@{
+    ViewBag.Title = "Page Access Logs";
+    ViewBag.MainMenu = "Page Access Logs";
+}
+
+<!DOCTYPE html>
+<html ng-app="PageAccessApp">
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Page Access Logs</title>
+     <style>
+        #tblPageAccessLogs_length {
+            margin-top: 15px;
+        }
+
+        #tblPageAccessLogs_filter {
+            margin-top: 15px;
+        }
+
+        #tblPageAccessLogs_wrapper {
+            width: 100%;
+        }
+
+        #page_Id {
+            width: 100%;
+            height: 46%;
+            border-radius: 5px;
+            border-color: #cccccc;
+        }
+
+        .dataTables_wrapper .dataTables_length select {
+            border: 1px solid #aaa;
+            border-radius: 3px;
+            padding: .375rem 1.75rem .375rem .75rem !important;
+            background-color: transparent;
+        }
+
+        .dataTables_wrapper .dataTables_paginate .paginate_button {
+            padding: 0px !important;
+            margin-left: -1px !important;
+        }
+    </style>
+</head>
+<body ng-controller="PageAccessLogs" style="overflow-x: hidden;">
+
+    <div class="row" style="margin-top:1%;margin-left:1%;width:100%;overflow-x:hidden">
+        <div class="col-md-2">
+            <label for="fromDate">From Date:</label>
+            <input type="date" ng-model="filters.fromDate" data-date-format="DD/MM/YYYY" id="fromDate" class="form-control">
+        </div>
+        <div class="col-md-2">
+            <label for="toDate">To Date:</label>
+            <input type="date" ng-model="filters.toDate" data-date-format="DD/MM/YYYY" id="toDate" class="form-control">
+        </div>
+        <div class="col-md-2">
+            <label for="page_Id" class="form-label">Page Name</label>
+            <select ng-model="filters.page_Id"
+                    ng-options="x.Value as x.Text for x in pageList"
+                    class="form-check" id="page_Id">
+                <option value="">Select</option>
+            </select>
+        </div>
+        <div class="col-md-2">
+            <label for="emailSearch">Email Id</label>
+            <input type="text" ng-model="filters.emailIdSearch" id="emailSearch" class="form-control">
+        </div>
+        <div class="col-md-0">
+            <button style="margin-top:40%;" class="btn btn-primary" ng-click="search()">Search</button>
+        </div>
+        <div class="col-md-0  ml-3 mt-2" style="padding: 0%;">
+            <button style="float: left;margin-top:28%;" class="btn btn-success" ng-click="exportfn()">
+                <i class="bi bi-file-earmark-excel">Export</i>
+            </button>
+        </div>
+    </div>
+
+    <div class="table-responsive mt-3">
+        <table class="table table-hover table-bordered" id="tblPageAccessLogs" cellspacing="0" width="100%">
+            <thead>
+                <tr style="background-color: #d3d3d3">
+                    <th>ID</th>
+                    <th>User Name</th>
+                    <th>Email ID</th>
+                    <th>Access Time</th>
+                    <th>Page Name</th>
+                    <th>Login Time</th>
+                    <th>Session Id</th>
+                    <th>Ip Address</th>
+                </tr>
+            </thead>
+        </table>
+    </div>
+</body>
+</html>

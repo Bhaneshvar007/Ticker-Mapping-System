@@ -1,0 +1,484 @@
+21-Aug-25 12:55:59	enter in controller
+21-Aug-25 12:56:01	user details
+21-Aug-25 12:57:47	user details
+21-Aug-25 12:58:40	user details
+21-Aug-25 12:59:55	enter in controller
+21-Aug-25 12:59:57	user details
+21-Aug-25 13:00:03	ERROR [ExecuteParaQuery] : Invalid object name 'RM_tbl_user_master'.
+21-Aug-25 13:01:31	enter in controller
+21-Aug-25 13:01:32	user details
+21-Aug-25 13:01:37	that is dtaSmita Joshi
+21-Aug-25 13:06:28	enter in controller
+21-Aug-25 13:06:29	user details
+21-Aug-25 13:06:29	that is dtaSmita Joshi
+21-Aug-25 13:18:00	enter in controller
+21-Aug-25 13:18:01	user details
+21-Aug-25 13:18:01	that is dtaSmita Joshi
+21-Aug-25 13:21:03	enter in controller
+21-Aug-25 13:21:04	user details
+21-Aug-25 13:21:04	that is dtaSmita Joshi
+21-Aug-25 16:48:51	enter in controller
+21-Aug-25 16:48:52	user details
+21-Aug-25 16:48:52	that is dtaSmita Joshi
+21-Aug-25 16:56:59	enter in controller
+21-Aug-25 16:57:00	user details
+21-Aug-25 16:57:00	that is dtaSmita Joshi
+21-Aug-25 17:09:57	enter in controller
+21-Aug-25 17:09:58	user details
+21-Aug-25 17:09:58	that is dtaSmita Joshi
+21-Aug-25 17:22:15	enter in controller
+21-Aug-25 17:22:16	user details
+21-Aug-25 17:22:16	that is dtaSmita Joshi
+21-Aug-25 17:29:50	enter in controller
+21-Aug-25 17:29:51	user details
+21-Aug-25 17:29:51	that is dtaSmita Joshi
+21-Aug-25 17:36:18	enter in controller
+21-Aug-25 17:36:18	user details
+21-Aug-25 17:36:18	that is dtaSmita Joshi
+21-Aug-25 17:40:57	enter in controller
+21-Aug-25 17:41:00	user details
+21-Aug-25 17:41:00	that is dtaSmita Joshi
+22-Aug-25 09:56:57	enter in controller
+22-Aug-25 09:56:57	user details
+22-Aug-25 09:56:57	that is dtaSmita Joshi
+22-Aug-25 11:06:19	enter in controller
+22-Aug-25 11:06:21	user details
+22-Aug-25 11:06:21	that is dtaSmita Joshi
+22-Aug-25 11:11:30	enter in controller
+22-Aug-25 11:11:30	user details
+22-Aug-25 11:11:30	that is dtaSmita Joshi
+22-Aug-25 11:16:52	enter in controller
+22-Aug-25 11:16:52	user details
+22-Aug-25 11:16:52	that is dtaSmita Joshi
+22-Aug-25 11:22:39	enter in controller
+22-Aug-25 11:22:40	user details
+22-Aug-25 11:22:40	that is dtaSmita Joshi
+22-Aug-25 11:30:04	enter in controller
+22-Aug-25 11:30:04	user details
+22-Aug-25 11:30:04	that is dtaSmita Joshi
+22-Aug-25 11:48:08	enter in controller
+22-Aug-25 11:48:08	user details
+22-Aug-25 11:48:20	enter in controller
+22-Aug-25 11:48:20	user details
+22-Aug-25 11:48:20	that is dtaSmita Joshi
+22-Aug-25 12:04:00	enter in controller
+22-Aug-25 12:04:00	user details
+22-Aug-25 12:04:00	that is dtaSmita Joshi
+22-Aug-25 12:13:45	enter in controller
+22-Aug-25 12:13:46	user details
+22-Aug-25 12:13:46	that is dtaSmita Joshi
+22-Aug-25 12:16:29	Filename  =  clientmaster.xlsx is alread Uploaded ...!
+22-Aug-25 12:30:14	enter in controller
+22-Aug-25 12:30:14	user details
+22-Aug-25 12:30:14	that is dtaSmita Joshi
+22-Aug-25 12:38:41	The given ColumnName 'ClientName' does not match up with any column in data source.
+22-Aug-25 12:42:29	enter in controller
+22-Aug-25 12:42:29	user details
+22-Aug-25 12:42:29	that is dtaSmita Joshi
+22-Aug-25 12:44:30	The given ColumnName 'ClientName' does not match up with any column in data source.
+22-Aug-25 12:51:18	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 12:54:19	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 12:56:18	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 12:57:48	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 13:02:24	enter in controller
+22-Aug-25 13:02:25	user details
+22-Aug-25 13:02:25	that is dtaSmita Joshi
+22-Aug-25 13:05:26	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 13:13:01	enter in controller
+22-Aug-25 13:13:01	user details
+22-Aug-25 13:13:01	that is dtaSmita Joshi
+22-Aug-25 13:19:04	enter in controller
+22-Aug-25 13:19:05	user details
+22-Aug-25 13:19:05	that is dtaSmita Joshi
+22-Aug-25 13:45:15	enter in controller
+22-Aug-25 13:45:15	user details
+22-Aug-25 13:45:15	that is dtaSmita Joshi
+22-Aug-25 13:45:58	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 13:47:59	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 14:14:23	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 14:15:51	enter in controller
+22-Aug-25 14:15:52	user details
+22-Aug-25 14:16:03	enter in controller
+22-Aug-25 14:16:04	user details
+22-Aug-25 14:16:04	that is dtaSmita Joshi
+22-Aug-25 14:17:38	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 14:23:06	enter in controller
+22-Aug-25 14:23:06	user details
+22-Aug-25 14:23:06	that is dtaSmita Joshi
+22-Aug-25 14:33:52	enter in controller
+22-Aug-25 14:33:52	user details
+22-Aug-25 14:33:52	that is dtaSmita Joshi
+22-Aug-25 14:34:45	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 14:35:40	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 14:37:27	enter in controller
+22-Aug-25 14:37:27	user details
+22-Aug-25 14:37:27	that is dtaSmita Joshi
+22-Aug-25 14:40:10	enter in controller
+22-Aug-25 14:40:11	user details
+22-Aug-25 14:40:11	that is dtaSmita Joshi
+22-Aug-25 14:48:44	enter in controller
+22-Aug-25 14:48:45	user details
+22-Aug-25 14:48:55	enter in controller
+22-Aug-25 14:48:55	user details
+22-Aug-25 14:48:55	that is dtaSmita Joshi
+22-Aug-25 14:54:16	enter in controller
+22-Aug-25 14:54:16	user details
+22-Aug-25 14:54:16	that is dtaSmita Joshi
+22-Aug-25 14:56:11	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 14:58:43	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 15:05:28	enter in controller
+22-Aug-25 15:05:28	user details
+22-Aug-25 15:05:28	that is dtaSmita Joshi
+22-Aug-25 15:19:30	enter in controller
+22-Aug-25 15:19:30	user details
+22-Aug-25 15:19:30	that is dtaSmita Joshi
+22-Aug-25 15:30:59	enter in controller
+22-Aug-25 15:31:00	user details
+22-Aug-25 15:31:00	that is dtaSmita Joshi
+22-Aug-25 15:31:46	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 15:35:21	The given ColumnName 'clientname' does not match up with any column in data source.
+22-Aug-25 15:51:25	enter in controller
+22-Aug-25 15:51:25	user details
+22-Aug-25 15:51:25	that is dtaSmita Joshi
+22-Aug-25 15:59:50	The given ColumnMapping does not match up with any column in the source or destination.
+22-Aug-25 16:03:43	The given ColumnMapping does not match up with any column in the source or destination.
+22-Aug-25 16:07:35	enter in controller
+22-Aug-25 16:07:36	user details
+22-Aug-25 16:07:36	that is dtaSmita Joshi
+22-Aug-25 16:17:54	enter in controller
+22-Aug-25 16:17:54	user details
+22-Aug-25 16:17:54	that is dtaSmita Joshi
+23-Aug-25 11:17:37	enter in controller
+23-Aug-25 11:17:38	user details
+23-Aug-25 11:17:38	that is dtaSmita Joshi
+23-Aug-25 11:21:00	enter in controller
+23-Aug-25 11:21:01	user details
+23-Aug-25 11:21:01	that is dtaSmita Joshi
+23-Aug-25 11:24:31	enter in controller
+23-Aug-25 11:24:31	user details
+23-Aug-25 11:24:46	enter in controller
+23-Aug-25 11:24:46	user details
+23-Aug-25 11:24:46	that is dtaSmita Joshi
+23-Aug-25 11:30:13	enter in controller
+23-Aug-25 11:30:14	user details
+23-Aug-25 11:30:34	enter in controller
+23-Aug-25 11:30:34	user details
+23-Aug-25 11:30:34	that is dtaSmita Joshi
+23-Aug-25 11:30:40	enter in controller
+23-Aug-25 11:30:40	user details
+23-Aug-25 11:30:40	that is dtaSmita Joshi
+23-Aug-25 11:48:59	enter in controller
+23-Aug-25 11:49:00	user details
+23-Aug-25 11:49:00	that is dtaSmita Joshi
+23-Aug-25 11:51:43	enter in controller
+23-Aug-25 11:51:44	user details
+23-Aug-25 11:51:44	that is dtaSmita Joshi
+23-Aug-25 12:07:23	The given ColumnName 'Rsdate' does not match up with any column in data source.
+23-Aug-25 12:10:16	The given ColumnMapping does not match up with any column in the source or destination.
+23-Aug-25 12:14:54	The given ColumnMapping does not match up with any column in the source or destination.
+25-Aug-25 10:56:09	enter in controller
+25-Aug-25 10:56:09	user details
+25-Aug-25 10:56:09	that is dtaSmita Joshi
+25-Aug-25 11:00:01	enter in controller
+25-Aug-25 11:00:02	user details
+25-Aug-25 11:00:02	that is dtaSmita Joshi
+25-Aug-25 11:09:49	enter in controller
+25-Aug-25 11:09:50	user details
+25-Aug-25 11:09:50	that is dtaSmita Joshi
+25-Aug-25 11:18:50	enter in controller
+25-Aug-25 11:18:50	user details
+25-Aug-25 11:18:50	that is dtaSmita Joshi
+25-Aug-25 11:21:57	enter in controller
+25-Aug-25 11:21:58	user details
+25-Aug-25 11:21:58	that is dtaSmita Joshi
+25-Aug-25 11:27:56	enter in controller
+25-Aug-25 11:27:56	user details
+25-Aug-25 11:27:56	that is dtaSmita Joshi
+25-Aug-25 11:34:07	enter in controller
+25-Aug-25 11:34:07	user details
+25-Aug-25 11:34:07	that is dtaSmita Joshi
+25-Aug-25 11:37:46	enter in controller
+25-Aug-25 11:37:48	user details
+25-Aug-25 11:37:48	that is dtaSmita Joshi
+25-Aug-25 11:41:27	enter in controller
+25-Aug-25 11:41:27	user details
+25-Aug-25 11:41:27	that is dtaSmita Joshi
+25-Aug-25 11:47:26	enter in controller
+25-Aug-25 11:47:27	user details
+25-Aug-25 11:47:27	that is dtaSmita Joshi
+25-Aug-25 11:58:55	enter in controller
+25-Aug-25 11:58:56	user details
+25-Aug-25 11:58:56	that is dtaSmita Joshi
+25-Aug-25 12:06:38	enter in controller
+25-Aug-25 12:06:39	user details
+25-Aug-25 12:06:39	that is dtaSmita Joshi
+25-Aug-25 12:33:34	enter in controller
+25-Aug-25 12:33:34	user details
+25-Aug-25 12:33:34	that is dtaSmita Joshi
+25-Aug-25 13:55:13	enter in controller
+25-Aug-25 13:55:13	user details
+25-Aug-25 13:55:13	that is dtaSmita Joshi
+26-Aug-25 11:31:04	enter in controller
+26-Aug-25 11:31:05	user details
+26-Aug-25 11:31:05	that is dtaSmita Joshi
+26-Aug-25 11:39:48	enter in controller
+26-Aug-25 11:39:49	user details
+26-Aug-25 11:39:49	that is dtaSmita Joshi
+26-Aug-25 11:46:55	   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumn.set_ColumnName(String value)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadSecurtyData(String path, String fileName) in D:\Uti_All_project\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 668
+26-Aug-25 11:51:31	   at System.Data.DataColumnCollection.RegisterColumnName(String name, DataColumn column)
+   at System.Data.DataColumn.set_ColumnName(String value)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadSecurtyData(String path, String fileName)
+26-Aug-25 11:53:47	The given value of type String from the data source cannot be converted to type bit of the specified target column.
+26-Aug-25 12:00:19	The given value of type String from the data source cannot be converted to type decimal of the specified target column.
+26-Aug-25 12:02:32	The given value of type String from the data source cannot be converted to type bit of the specified target column.
+26-Aug-25 12:11:05	enter in controller
+26-Aug-25 12:11:07	user details
+26-Aug-25 12:11:07	that is dtaSmita Joshi
+26-Aug-25 15:12:06	enter in controller
+26-Aug-25 15:12:06	user details
+26-Aug-25 15:12:06	that is dtaSmita Joshi
+26-Aug-25 16:05:22	enter in controller
+26-Aug-25 16:05:23	user details
+26-Aug-25 16:05:23	that is dtaSmita Joshi
+26-Aug-25 16:15:17	The given ColumnName 'clientname' does not match up with any column in data source.
+26-Aug-25 16:18:47	enter in controller
+26-Aug-25 16:18:48	user details
+26-Aug-25 16:18:48	that is dtaSmita Joshi
+26-Aug-25 17:02:46	enter in controller
+26-Aug-25 17:02:48	user details
+26-Aug-25 17:02:48	that is dtaSmita Joshi
+26-Aug-25 17:18:00	enter in controller
+26-Aug-25 17:18:01	user details
+26-Aug-25 17:18:01	that is dtaSmita Joshi
+01-Sep-25 12:38:42	enter in controller
+01-Sep-25 12:38:43	user details
+01-Sep-25 12:38:43	that is dtaSmita Joshi
+01-Sep-25 12:45:12	enter in controller
+01-Sep-25 12:45:13	user details
+01-Sep-25 12:45:13	that is dtaSmita Joshi
+02-Sep-25 13:49:53	enter in controller
+02-Sep-25 13:49:54	user details
+02-Sep-25 13:49:54	that is dtaSmita Joshi
+02-Sep-25 13:51:35	enter in controller
+02-Sep-25 13:51:36	user details
+02-Sep-25 13:51:36	that is dtaSmita Joshi
+02-Sep-25 13:57:20	enter in controller
+02-Sep-25 13:57:21	user details
+02-Sep-25 13:57:21	that is dtaSmita Joshi
+02-Sep-25 14:03:18	enter in controller
+02-Sep-25 14:03:18	user details
+02-Sep-25 14:03:18	that is dtaSmita Joshi
+02-Sep-25 14:06:10	enter in controller
+02-Sep-25 14:06:11	user details
+02-Sep-25 14:06:11	that is dtaSmita Joshi
+02-Sep-25 14:17:30	enter in controller
+02-Sep-25 14:17:31	user details
+02-Sep-25 14:17:31	that is dtaSmita Joshi
+02-Sep-25 14:23:35	enter in controller
+02-Sep-25 14:23:35	user details
+02-Sep-25 14:23:35	that is dtaSmita Joshi
+02-Sep-25 14:30:35	enter in controller
+02-Sep-25 14:30:36	user details
+02-Sep-25 14:30:36	that is dtaSmita Joshi
+02-Sep-25 14:34:57	enter in controller
+02-Sep-25 14:34:58	user details
+02-Sep-25 14:34:58	that is dtaSmita Joshi
+02-Sep-25 14:36:28	enter in controller
+02-Sep-25 14:36:29	user details
+02-Sep-25 14:36:29	that is dtaSmita Joshi
+02-Sep-25 14:40:52	0
+02-Sep-25 14:40:54	ColumnName is required when it is part of a DataTable.
+02-Sep-25 14:44:59	The given value of type String from the data source cannot be converted to type decimal of the specified target column.
+04-Sep-25 11:25:34	enter in controller
+04-Sep-25 11:25:36	user details
+04-Sep-25 11:25:36	that is dtaSmita Joshi
+11-Sep-25 10:18:37	enter in controller
+11-Sep-25 10:18:53	user details
+13-Sep-25 10.43.35	enter in controller
+13-Sep-25 10.43.36	user details
+13-Sep-25 10.43.36	that is dtaSmita Joshi
+13-Sep-25 11.01.33	enter in controller
+13-Sep-25 11.01.34	user details
+13-Sep-25 11.01.44	enter in controller
+13-Sep-25 11.01.44	user details
+13-Sep-25 11.01.44	that is dtaSmita Joshi
+13-Sep-25 11.50.21	enter in controller
+13-Sep-25 11.50.21	user details
+13-Sep-25 11.50.21	that is dtaSmita Joshi
+14-Sep-25 16.07.26	enter in controller
+14-Sep-25 16.07.27	user details
+14-Sep-25 16.07.27	that is dtaSmita Joshi
+14-Sep-25 16.18.01	enter in controller
+14-Sep-25 16.18.01	user details
+14-Sep-25 16.18.01	that is dtaSmita Joshi
+14-Sep-25 16.31.18	enter in controller
+14-Sep-25 16.31.18	user details
+14-Sep-25 16.31.18	that is dtaSmita Joshi
+18-Sep-25 15:57:54	enter in controller
+18-Sep-25 15:58:09	user details
+19-Sep-25 15:34:08	Get User error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUsersData(DataTable dt) in D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 484DT
+19-Sep-25 15:59:07	get User data
+22-Sep-25 12:57:58	Enter in login controller
+22-Sep-25 12:58:13	user details
+22-Sep-25 15:20:36	   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Cash_Future_MappingSystem.BAL.Common2.UploadSecurtyData(String path, String fileName) in D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 642
+22-Sep-25 15:21:06	   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, UInt32 waitForMultipleObjectsTimeout, Boolean allowCreate, Boolean onlyOneCheckConnection, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionPool.TryGetConnection(DbConnection owningObject, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionFactory.TryGetConnection(DbConnection owningConnection, TaskCompletionSource`1 retry, DbConnectionOptions userOptions, DbConnectionInternal oldConnection, DbConnectionInternal& connection)
+   at System.Data.ProviderBase.DbConnectionInternal.TryOpenConnectionInternal(DbConnection outerConnection, DbConnectionFactory connectionFactory, TaskCompletionSource`1 retry, DbConnectionOptions userOptions)
+   at System.Data.SqlClient.SqlConnection.TryOpenInner(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.TryOpen(TaskCompletionSource`1 retry)
+   at System.Data.SqlClient.SqlConnection.Open()
+   at Cash_Future_MappingSystem.BAL.Common2.UploadSecurtyData(String path, String fileName) in D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 642
+22-Sep-25 16:24:48	Get User data
+22-Sep-25 16:25:07	Get User error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUsersData(DataTable dt) in D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 484DT
+22-Sep-25 16:25:07	User Data count 0
+22-Sep-25 16:26:54	Get User data
+22-Sep-25 16:28:01	Get User data
+22-Sep-25 16:28:20	Get User error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUsersData(DataTable dt) in D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 484DT
+22-Sep-25 16:28:20	User Data count 0
+22-Sep-25 16:28:22	Get User data
+22-Sep-25 16:28:24	Get User error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUsersData(DataTable dt) in D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 484DT
+22-Sep-25 16:28:24	User Data count 0
+22-Sep-25 16:32:42	Get User data
+22-Sep-25 16:33:02	Get User error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUsersData(DataTable dt) in D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 484DT
+22-Sep-25 16:33:02	User Data count 0
+22-Sep-25 16:37:12	Get User data
+22-Sep-25 16:37:31	Get User error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUsersData(DataTable dt) in D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 484DT
+22-Sep-25 16:37:31	User Data count 0
+23-Sep-25 11:42:22	ClientMaster File Path : D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\Bhaneshvar(Clienttesting).csv
+23-Sep-25 12:15:23	getClientUploadFile
+23-Sep-25 12:21:06	getClientUploadFile
+23-Sep-25 12:21:27	ClientMaster File Path : D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\Bhaneshvar(Clienttesting).csv
+23-Sep-25 14:32:53	Error Role insert  : Object reference not set to an instance of an object.
+23-Sep-25 14:33:49	Error Role insert  : Object reference not set to an instance of an object.
+24-Sep-25 16:08:53	Broker Index
+24-Sep-25 16:08:55	Broker GetConfirmationBroker
+24-Sep-25 16:09:12	Broker Data 
+25-Sep-25 13:18:10	Broker Index
+25-Sep-25 13:18:31	Broker Index
+25-Sep-25 13:19:02	Broker Index
+25-Sep-25 13:25:41	Broker Index
+25-Sep-25 13:27:33	Broker Index
+25-Sep-25 13:27:37	Broker Index
+25-Sep-25 13:32:58	Broker Index
+25-Sep-25 15:07:30	Broker Index
+25-Sep-25 15:13:34	Broker Index
+25-Sep-25 15:18:43	Broker Index
+25-Sep-25 15:18:44	Broker GetConfirmationBroker
+25-Sep-25 15:19:00	Broker Data 
+25-Sep-25 16:32:41	Broker Index
+25-Sep-25 16:32:41	Broker GetConfirmationBroker
+25-Sep-25 16:32:41	Broker Data 
+27-Sep-25 10.29.14	Enter in login controller
+27-Sep-25 10.29.14	user details
+27-Sep-25 10.29.14	that is the Smita Joshi
+27-Sep-25 10.29.27	Request for insert PageAcesslog !
+27-Sep-25 10.29.27	PageAcesslog Req IP : ::1
+27-Sep-25 10.29.27	Inside the pageacess insert/ConfirmationBrokerData
+27-Sep-25 10.29.27	inserted PageAcesslog Sucessfully
+27-Sep-25 10.29.27	Broker Index
+27-Sep-25 10.29.29	Request for insert PageAcesslog !
+27-Sep-25 10.29.29	PageAcesslog Req IP : ::1
+27-Sep-25 10.29.29	Inside the pageacess insert/ConfirmationBrokerData/GetConfirmationBroker
+27-Sep-25 10.29.29	inserted PageAcesslog Sucessfully
+27-Sep-25 10.29.29	Broker GetConfirmationBroker
+27-Sep-25 10.29.29	Broker Data 
+27-Sep-25 10.29.29	Broker Data Count 125
+27-Sep-25 10.29.30	Request for insert PageAcesslog !
+27-Sep-25 10.29.30	PageAcesslog Req IP : ::1
+27-Sep-25 10.29.30	Inside the pageacess insert/ConfirmationBrokerData/GetConfirmationBroker
+27-Sep-25 10.29.30	inserted PageAcesslog Sucessfully
+27-Sep-25 10.29.30	Broker GetConfirmationBroker
+27-Sep-25 10.29.30	Broker Data 
+27-Sep-25 10.29.30	Broker Data Count 125
+27-Sep-25 10.30.35	Request for insert PageAcesslog !
+27-Sep-25 10.30.35	PageAcesslog Req IP : ::1
+27-Sep-25 10.30.35	Inside the pageacess insert/ConfirmationBrokerData/UpdateConfirmationBroker/1
+27-Sep-25 10.30.35	inserted PageAcesslog Sucessfully
+27-Sep-25 10.30.36	Request for insert PageAcesslog !
+27-Sep-25 10.30.36	PageAcesslog Req IP : ::1
+27-Sep-25 10.30.36	Inside the pageacess insert/ConfirmationBrokerData/GetItem
+27-Sep-25 10.30.36	inserted PageAcesslog Sucessfully
+27-Sep-25 10.30.36	Broker Data Count 1
+27-Sep-25 10.30.36	Request for insert PageAcesslog !
+27-Sep-25 10.30.36	PageAcesslog Req IP : ::1
+27-Sep-25 10.30.36	Inside the pageacess insert/ConfirmationBrokerData/GetItem
+27-Sep-25 10.30.36	inserted PageAcesslog Sucessfully
+27-Sep-25 10.30.36	Broker Data Count 1
+27-Sep-25 10.30.44	Request for insert PageAcesslog !
+27-Sep-25 10.30.44	PageAcesslog Req IP : ::1
+27-Sep-25 10.30.44	Inside the pageacess insert/Reports/BrokerwiseMatchingReport
+27-Sep-25 10.30.44	inserted PageAcesslog Sucessfully
+27-Sep-25 10.30.45	Request for insert PageAcesslog !
+27-Sep-25 10.30.45	PageAcesslog Req IP : ::1
+27-Sep-25 10.30.45	Inside the pageacess insert/Reports/GetBrokerwiseMatchingReport
+27-Sep-25 10.30.45	inserted PageAcesslog Sucessfully
+27-Sep-25 10.30.48	GetBrokerwiseMatchingReports
+27-Sep-25 10.30.50	BrokerwiseMatchingReport Object reference not set to an instance of an object.
+27-Sep-25 10.30.51	Request for insert PageAcesslog !
+27-Sep-25 10.30.51	PageAcesslog Req IP : ::1
+27-Sep-25 10.30.51	Inside the pageacess insert/TickerMapping/GetTickerMappingGrid
+27-Sep-25 10.30.51	inserted PageAcesslog Sucessfully
+27-Sep-25 10.31.00	Request for insert PageAcesslog !
+27-Sep-25 10.31.00	PageAcesslog Req IP : ::1
+27-Sep-25 10.31.00	Inside the pageacess insert/TickerMapping
+27-Sep-25 10.31.00	inserted PageAcesslog Sucessfully
+27-Sep-25 10.31.01	Request for insert PageAcesslog !
+27-Sep-25 10.31.01	PageAcesslog Req IP : ::1
+27-Sep-25 10.31.01	Inside the pageacess insert/TickerMapping/GetTickerMappingGrid
+27-Sep-25 10.31.01	inserted PageAcesslog Sucessfully
+27-Sep-25 10.31.01	Request for insert PageAcesslog !
+27-Sep-25 10.31.01	PageAcesslog Req IP : ::1
+27-Sep-25 10.31.01	Inside the pageacess insert/TickerMapping/GetTickerMappingGrid
+27-Sep-25 10.31.01	inserted PageAcesslog Sucessfully
+27-Sep-25 11.53.52	Enter in login controller
+27-Sep-25 11.53.53	user details
+27-Sep-25 11.53.53	that is the Smita Joshi
+27-Sep-25 11.53.59	Request for insert PageAcesslog !
+27-Sep-25 11.53.59	PageAcesslog Req IP : ::1
+27-Sep-25 11.53.59	Inside the pageacess insert/TickerMapping
+27-Sep-25 11.53.59	inserted PageAcesslog Sucessfully
+27-Sep-25 11.53.59	Request for insert PageAcesslog !
+27-Sep-25 11.53.59	PageAcesslog Req IP : ::1
+27-Sep-25 11.53.59	Inside the pageacess insert/TickerMapping/GetTickerMappingGrid
+27-Sep-25 11.53.59	inserted PageAcesslog Sucessfully
+27-Sep-25 11.55.00	Enter in login controller
+27-Sep-25 11.55.01	user details
+27-Sep-25 11.55.01	that is the Smita Joshi
+27-Sep-25 11.55.05	Request for insert PageAcesslog !
+27-Sep-25 11.55.05	PageAcesslog Req IP : ::1
+27-Sep-25 11.55.05	Inside the pageacess insert/TickerMapping
+27-Sep-25 11.55.05	inserted PageAcesslog Sucessfully
+27-Sep-25 11.55.05	Request for insert PageAcesslog !
+27-Sep-25 11.55.05	PageAcesslog Req IP : ::1
+27-Sep-25 11.55.05	Inside the pageacess insert/TickerMapping/GetTickerMappingGrid
+27-Sep-25 11.55.05	inserted PageAcesslog Sucessfully
+27-Sep-25 11.55.21	Request for insert PageAcesslog !
+27-Sep-25 11.55.21	PageAcesslog Req IP : ::1
+27-Sep-25 11.55.21	Inside the pageacess insert/TickerMapping/GetTickerMappingGrid
+27-Sep-25 11.55.21	inserted PageAcesslog Sucessfully
+07-Oct-25 11:47:06	getClientUploadFile
+07-Oct-25 11:47:17	ClientMaster File Path : D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\Bhaneshvar(Clienttesting).csv
+07-Oct-25 11:47:41	clientname
+07-Oct-25 11:47:43	accountno
+07-Oct-25 11:47:44	broker
+07-Oct-25 11:47:45	holdings
+07-Oct-25 11:47:46	file_name_mast
+07-Oct-25 11:47:47	rsdate
+07-Oct-25 11:47:49	isactive
+07-Oct-25 11:47:51	Client Tbl 2

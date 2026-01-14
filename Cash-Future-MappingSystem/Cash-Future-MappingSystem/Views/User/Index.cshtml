@@ -1,0 +1,47 @@
+﻿@{
+    ViewBag.Title = "Users";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item"> <a class="nav-link text-dark" href="javascript:void(0);"><strong>Statistics</strong></a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/User/AddUser">User Master</a> </li>
+    </ul>
+    <hr class="m-0">
+</div>
+
+<article class="col-md-12">
+    <div class="pt-3">
+        <div class="mb-4">
+            <a href="/User/AddUser" class="btn btn-secondary float-right ml-1">+ Add User</a>
+        </div>
+        <div class="form-group col-md-2 btnPosition">
+            <button type="button" class="btn btn-primary sm-2" id="exportSubmit" ng-click="exportToExcel()">Export</button>
+        </div>
+    </div>
+</article>
+
+<div ng-app="myApp" ng-controller="User">
+    <div style="overflow:auto">
+        <table class="table table-hover table-bordered" id="user_table">
+            <thead>
+                <tr style="background-color: #d3d3d3">
+                    <th>SrNo</th>
+                    <th>Code</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Role Name</th>
+                    @*<th>Role</th>*@
+                    <th>Created Date</th>
+                    <th>Updated By</th>
+                    <th>Updated Date</th>
+
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+</div>
+
+

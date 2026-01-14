@@ -1,0 +1,168 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+
+@*<script src="~/Scripts/jquery-2.2.3.min.js"></script>*@
+
+<style>
+    .btn-primary {
+        color: #fff;
+        background-color: #383095;
+        border-color: #383095;
+    }
+
+    .scrollit {
+        overflow: scroll;
+        height: 400px;
+        width: 1400px;
+    }
+
+    .box {
+        /*width: 150px;
+              height: 150px;*/
+        opacity: 0.9;
+        position: absolute;
+        top: 35px;
+        left: 30px;
+    }
+
+    .btnPosition {
+        margin-top: 26px;
+        margin-left: 0px;
+    }
+
+    .loader {
+        position: fixed;
+        z-index: 1000001;
+        top: 0px;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        /*background: white;*/
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        animation: rotate;
+        animation-iteration-count: infinite;
+        /* z-index:auto;*/
+        /*animation-duration: 1.6s;*/
+    }
+    .custom-file-label::after {
+        content: "Browse"; /* right side button ka text */
+    }
+
+    .custom-file-label {
+        overflow: hidden;
+    }
+
+    #xlFile {
+        color: transparent; /* filename text hide */
+    }
+
+        .loader > img {
+            width: 300px;
+            height: 200px;
+        }
+</style>
+<div class="col-md-12 p-0">
+    <div class="col-md-12 p-0">
+        <ul class="nav">
+            <li class="nav-item"> <a class="nav-link text-dark" href="/ConfirmationBrokerData"><strong>Statistics</strong></a> </li>
+            <li class="nav-item"> <a class="nav-link" href="javascript:void(0);">Broker Master</a> </li>
+        </ul>
+        <hr class="m-0">
+    </div>
+</div>
+<div ng-app="myApp" ng-controller="ConfirmationBroker">
+    <div>
+        <form>
+            <div class="row m-3 p-3 border rounder">
+                <h5 class="col-md-12 mb-3">Upload Reconciliation</h5>
+
+                <div class="form-group col-md-3">
+                    <label>From Date</label>
+                    <input ng-model="UPLOAD_FROM_DATE" id="UPLOAD_FROM_DATE" data-date-format="DD/MM/YYYY" type="date" class="form-control" />
+                </div>
+                @*<div class="form-group col-md-3">
+                        <label>TO Date</label>
+                        <input ng-model="UPLOAD_FROM_DATE" id="UPLOAD_To_DATE" data-date-format="DD/MM/YYYY" type="date" class="form-control" />
+                    </div>*@
+                <span> &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; </span>
+                <div class="form-row mt-4">
+                    <div class="form-group col-md-12">
+                        <div class="custom-file">
+                            <input type="file" ngf-select ng-model="xlFile" id="xlFile" name="xlFile" style="padding-bottom: 25px; padding-top: 10px;" multiple="multiple" ;ngf-select="getUploadFiles($files)" />
+                            <label class="custom-file-label" style="width: 210px;margin-top: 9px;" for="xlFile">Choose file</label>
+                        </div>
+                        <h6  id="selected-file" style="margin-top: 10px;"><!-- Slected file will get here --></h6>
+                    </div>
+                </div>
+                <div class="form-group col-md-2">
+                    <button type="submit" class="btn btn-primary mb-2 btnPosition" ng-click="getUploadFile(UPLOAD_FROM_DATE,xlFile)">
+                        <span ng-show="searchButtonText == 'Searching'">
+                            <img style="width:20px;height:20px;" src="~/images/loader.gif" />
+                        </span>
+                        Upload
+                    </button>
+                </div>
+            </div>
+
+
+            <div class="row">
+
+
+            </div>
+        </form>
+    </div>
+
+
+
+
+</div>
+<script>
+    $(document).ready(function () {
+  
+        $('input[type="file"]').change(function (e) {
+            var fileUpload = $(this).get(0);
+            var files = fileUpload.files;
+
+            var data = new FormData();
+            for (var i = 0; i < files.length; i++) {
+                data.append(files[i].name, files[i]);
+            }
+            $.ajax({
+                //url: "fileupload.ashx",
+                url: "/ConfirmationBroker/Upload",
+                type: "POST",
+                data: data,
+                contentType: false,
+                processData: false,
+                success: function (result) {
+                    var geekss = e.target.files[0].name;
+                    $("selected-file").text(geekss + ' is the selected file.');
+                $("h6").text(geekss + ' is the selected file.');
+                    //alert(result);
+                },
+                /*error: function (err) {
+                    alert(err.statusText)*/
+                error: function (xhr, status, error) {
+                    console.log("Status: " + status);
+                    console.log("Error: " + error);
+                    console.log("Response: " + xhr.responseText);
+                    alert("Upload failed: " + xhr.responseText);
+                }
+            });
+
+        });
+
+
+    });
+</script>
+
+
+
+
+
+

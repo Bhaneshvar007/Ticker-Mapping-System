@@ -1,0 +1,136 @@
+﻿@{
+    ViewBag.Title = "Menu";
+
+}
+
+<style>
+    form {
+        margin-left: 35%;
+    }
+
+    label {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        text-align: center;
+        width: 150px;
+        line-height: 20px;
+        margin-bottom: 10px;
+    }
+</style>
+<div class="w-100">
+
+    <div class="p-0">
+        <ul class="nav">
+            <li class="nav-item"> <a class="nav-link text-dark" href="javascript:void(0);"><strong>Statistics</strong></a> </li>
+            <li class="nav-item"> <a class="nav-link" href="/">Menu</a> </li>
+        </ul>
+        <hr class="m-0">
+    </div>
+
+    <br />
+    <div>
+
+        <div class="row mt-3">
+            <div class="col-md-3 mb-3 text-center">
+                <a href="/User" style="text-decoration:none">
+                    <div class="card" style="height:150px; border-radius:10px">
+                        <div class="card-body  text-primary">
+                            <i class="fa fa-4x pb-1 fa fa-book"></i>
+                            <h5 class="card-title">User Master</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+
+
+            <div class="col-md-3 mb-2 text-center">
+                <a href="/Role" style="text-decoration:none">
+                    <div class="card" style="height:150px; border-radius:10px">
+                        <div class="card-body  text-primary">
+                            <i class="fa fa-4x pb-1 fa fa-book "></i>
+                            <h5 class="card-title">Role Master</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <!--
+            <div class="col-md-3 mb-2 text-center">
+                <a href="/RoleMenuMapping/Index" style="text-decoration:none">
+                    <div class="card" style="height:150px; border-radius:10px">
+                        <div class="card-body  text-primary">
+                            <i class="fa fa-4x pb-1 fa fa-book  "></i>
+                            <h5 class="card-title">Role Menu Mapping</h5>
+                        </div>
+                    </div>
+                </a>
+            </div>
+                -->
+
+            <div class="col-md-3 mb-2 text-center">
+                <a href="/clientmaster/OldClientData" style="text-decoration:none">
+                    <div class="card" style="height:150px; border-radius:10px">
+                        <div class="card-body  text-primary">
+                            <i class="fa fa-4x pb-1 fa fa-table"></i>
+                            <h5 class="card-title">Old Client Data</h5>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+
+
+            <div class="col-md-3 mb-2 text-center">
+                <a href="/ConfirmationBrokerData/OldBrokerData" style="text-decoration:none">
+                    <div class="card" style="height:150px; border-radius:10px">
+                        <div class="card-body  text-primary">
+                            <i class="fa fa-4x pb-1 fa fa-table  "></i>
+                            <h5 class="card-title">Old Broker Data</h5>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+
+
+            <div class="col-md-3 mb-2 text-center">
+                <a href="/Settings/OldSecurityMaster" style="text-decoration:none">
+                    <div class="card" style="height:150px; border-radius:10px">
+                        <div class="card-body  text-primary">
+                            <i class="fa fa-4x pb-1 fa fa-table"></i>
+                            <h5 class="card-title">Old Security Data</h5>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+
+
+            <div class="col-md-3 mb-2 text-center">
+                <a href="/Settings/OldEquityholdings" style="text-decoration:none">
+                    <div class="card" style="height:150px; border-radius:10px">
+                        <div class="card-body  text-primary">
+                            <i class="fa fa-4x pb-1 fa fa-table"></i>
+                            <h5 class="card-title">Old Equity Holdings Data</h5>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+
+            <div class="col-md-3 mb-2 text-center">
+                <a href="/Settings/OldFutureholdings" style="text-decoration:none">
+                    <div class="card" style="height:150px; border-radius:10px">
+                        <div class="card-body  text-primary">
+                            <i class="fa fa-4x pb-1 fa fa-table"></i>
+                            <h5 class="card-title">Old Future Holdings Data</h5>
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+</div>

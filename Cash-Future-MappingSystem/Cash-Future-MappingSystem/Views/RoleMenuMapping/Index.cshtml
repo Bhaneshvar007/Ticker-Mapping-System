@@ -1,0 +1,85 @@
+﻿@{
+    ViewBag.Title = "Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item"> <a class="nav-link text-dark" href="/RoleMenuMapping"><strong>Statistics</strong></a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/RoleMenuMapping">Role Menu Mapping Master</a> </li>
+    </ul>
+    <hr class="m-0">
+</div>
+
+
+<article class="col-md-12">
+    @*<div class="pt-3">
+        <div class="form-group col-md-2 btnPosition float-right">
+            <button type="button" class="btn btn-primary sm-2" id="exportSubmit">Download Excel</button>
+        </div>
+    </div>*@
+</article>
+
+<div ng-controller="RoleMenuMapping">
+    <div style="overflow:auto">
+
+      
+        <div class="input-group col-md-12 mb-2">
+            <select class="form-control" ng-model="model.role_id" required name="role_id">
+                <option value="">Select Role</option>
+                @if (ViewBag.roleData != null)
+                {
+                    foreach (var role in ViewBag.roleData)
+                    {
+                        <option value="@role.ID">@role.Name</option>
+                    }
+                }
+            </select>
+        </div>
+
+        <table class="table table-hover table-bordered col-md-5 ml-3 rounded-2" id="table_id">
+            <thead>
+                <tr style="background-color:#d3d3d3">
+                    <th>SrNo</th>
+                    <th>Select</th>
+                    <th>Menu Name</th>
+                </tr>
+            </thead>
+
+            <tbody>
+               
+                <tr >
+                    <td>1</td>
+                    <td>
+                        <input type="checkbox" name="menus" value="FileUploadModule" />
+                    </td>
+                    <td>File Upload Module</td>
+                </tr>
+
+             
+                <tr>
+                    <td>2</td>
+                    <td><input type="checkbox" name="menus" value="FileMaster" /></td>
+                    <td>File Master</td>
+                </tr>
+
+             
+                <tr>
+                    <td>3</td>
+                    <td><input type="checkbox" name="menus" value="TickerMappingModule" /></td>
+                    <td>Ticker Mapping Module</td>
+                </tr>
+
+              
+                <tr>
+                    <td>4</td>
+                    <td><input type="checkbox" name="menus" value="ReportModule" /></td>
+                    <td>Report Module</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <button class="btn text-white ml-3" style="background-color:#383095;">Submit</button>
+    </div>
+</div>

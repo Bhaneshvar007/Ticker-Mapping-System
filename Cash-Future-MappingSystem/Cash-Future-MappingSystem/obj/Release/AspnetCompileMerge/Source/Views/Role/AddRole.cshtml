@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "AddRole";
+}
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item"> <a class="nav-link text-dark" href="/Role"><strong>Statistics</strong></a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/Role/AddRole">Role </a> </li>
+    </ul>
+    <hr class="m-0">
+</div>
+<div class="container col-md-4 text-center shadow bg-white rounded mt-5 py-3" style="height:250px; ">
+    @*<h3 class="m-0"><img src="~/Images/logo.png" class="mt-4" alt="Logo" /></h3>*@
+    <h5 class="my-3"><strong>Add Role</strong></h5>
+    <form action="/" class="form-horizontal" method="post" role="form">
+      
+        
+        
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" id="RoleCode" name="RoleCode" placeholder="Email" required="required" type="text" value="" />
+            <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+        </div>
+
+ 
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" id="Name" name="Name" placeholder="Role Name" required="required" type="text" value="" />
+            <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+        </div>
+
+ 
+        <div class="col-md-12 mt-3 mb-2">
+            <input type="submit" value="Create" class="btn text-white btn-block btn-flat" style="background-color: #383095;"/>
+        </div>
+    </form>
+</div>
+

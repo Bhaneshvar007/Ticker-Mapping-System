@@ -1,0 +1,83 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<style>
+    .loader-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0,0,0,0.3);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.spinner {
+    border: 8px solid #f3f3f3; /* light grey */
+    border-top: 8px solid #3498db; /* blue */
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    animation: spin 1s linear infinite;
+}
+
+@@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}
+
+</style>
+
+<div class="col-md-12 p-0">
+    <ul class="nav d-flex">
+        <li class="nav-item"> <a class="nav-link text-dark" href="javascript:void(0);"><strong>Statistics</strong></a> </li>
+        <li class="nav-item"> <a class="nav-link" href="javascript:void(0);">Ticker Mapping</a> </li>
+    </ul>
+    <hr class="m-0">
+</div>
+
+<article class="col-md-12">
+    <div class="pt-3" ng-app="myApp" ng-controller="TickerMapping">
+        <div class="mb-4">
+            <button class="btn btn-success float-right ml-1">Export</button>
+            <button class="btn btn-primary float-right ml-1" ng-click="TickerProcessing()">Apply Ticker Mapping</button>
+        </div>
+
+        <!-- Loader -->
+        <div ng-show="isLoading" class="loader-overlay">
+            <div class="spinner"></div>
+        </div>
+    </div>
+
+</article>
+<br />
+
+<div ng-app="myApp" ng-controller="TickerMapping">
+    <div style="overflow:auto">
+        <table class="table table-hover table-bordered" id="tickerMappingTable">
+            <thead>
+                <tr style="background-color: #d3d3d3">
+                    <th>Sr.No</th>
+                    <th>BrokerSecurity</th>
+                    <th>ParentTicker</th>
+                    <th>Quantity</th>
+                    <th>Price</th>
+                    <th>Total Price</th>
+                    <th>Common Parent Ticker</th>
+                    <th>Quantity Matching Status</th>
+                    <th>Instrument Type</th>
+                    <th>Trade Direction</th>
+                    <th>Created Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- DataTable will populate this -->
+            </tbody>
+        </table>
+    </div>
+</div>

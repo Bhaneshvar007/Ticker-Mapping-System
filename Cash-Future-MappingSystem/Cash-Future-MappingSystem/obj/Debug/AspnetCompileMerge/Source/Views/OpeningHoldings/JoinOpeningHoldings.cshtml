@@ -1,0 +1,55 @@
+﻿
+@{
+    ViewBag.Title = "JoinOpeningHoldings";
+}
+
+ 
+<div ng-app="myApp" ng-controller="JoinOpeningHoldingsCtrl">
+
+    <div class="col-md-12 p-0">
+        <ul class="nav d-flex">
+            <li class="nav-item">
+                <a class="nav-link text-dark" href="javascript:void(0);">
+                    <strong>Statistics</strong>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="javascript:void(0);">
+                    Join Opening Holdings
+                </a>
+            </li>
+        </ul>
+        <hr class="m-0">
+    </div>
+
+    <div class="col-md-12 mt-3 text-right">
+        <button class="btn btn-success" ng-click="exportToExcel()">
+            Export
+        </button>
+    </div>
+
+    <br />
+
+    <div style="overflow:auto">
+        <table class="table table-bordered table-hover" id="JoinOpeningHoldingsTbl">
+            <thead style="background-color:#d3d3d3">
+                <tr>
+                    <th>Sr. No.</th>
+                    <th>Display Name Equity</th>
+                    <th>Display Name Future</th>
+                    <th>Account Code</th>
+                    <th>Account Name</th>
+                    <th>Issuer</th>
+                    <th>Equity Position</th>
+                    <th>Saleable</th>
+                    <th>Future Position (Lots)</th>
+                    <th>Future Position</th>
+                </tr>
+            </thead>
+            <tbody></tbody>
+        </table>
+    </div>
+
+</div>
+
+

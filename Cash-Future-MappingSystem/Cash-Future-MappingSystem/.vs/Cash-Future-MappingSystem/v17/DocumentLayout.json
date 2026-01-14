@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\All Cylsys Project\\CFTMS\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms\\cash-future-mappingsystem\\cash-future-mappingsystem\\assets\\tickermapping.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:assets\\tickermapping.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|d:\\all cylsys project\\cftms\\cash-future-mappingsystem\\cash-future-mappingsystem\\bal\\securitymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:bal\\securitymaster.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|D:\\All Cylsys Project\\CFTMS\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\bal\\tickermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B92D6960-FADE-42A5-86F2-8DF3C3E92354}|Cash-Future-MappingSystem.csproj|solutionrelative:bal\\tickermapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TickerMapping.js",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\TickerMapping.js",
+              "RelativeDocumentMoniker": "Assets\\TickerMapping.js",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\Assets\\TickerMapping.js",
+              "RelativeToolTip": "Assets\\TickerMapping.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-01-14T06:54:15.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SecurityMaster.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\BAL\\SecurityMaster.cs",
+              "RelativeDocumentMoniker": "BAL\\SecurityMaster.cs",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\BAL\\SecurityMaster.cs",
+              "RelativeToolTip": "BAL\\SecurityMaster.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAwwCcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:13:54.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TickerMapping.cs",
+              "DocumentMoniker": "D:\\All Cylsys Project\\CFTMS\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\BAL\\TickerMapping.cs",
+              "RelativeDocumentMoniker": "BAL\\TickerMapping.cs",
+              "ToolTip": "D:\\All Cylsys Project\\CFTMS\\Cash-Future-MappingSystem\\Cash-Future-MappingSystem\\BAL\\TickerMapping.cs",
+              "RelativeToolTip": "BAL\\TickerMapping.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:13:30.924Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

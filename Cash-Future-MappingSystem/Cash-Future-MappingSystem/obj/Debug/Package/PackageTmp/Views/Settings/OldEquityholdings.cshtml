@@ -1,0 +1,74 @@
+﻿
+@{
+    ViewBag.Title = "OldEquityholdings";
+}
+
+ 
+<div ng-app="myApp" ng-controller="OldEquityHoldingsMasterCtrl">
+
+    <div class="col-md-12 p-0">
+        <ul class="nav d-flex">
+            <li class="nav-item">
+                <a class="nav-link text-dark" href="javascript:void(0);">
+                    <strong>Statistics</strong>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="javascript:void(0);">
+                    Equity Holdings
+                </a>
+            </li>
+        </ul>
+        <hr class="m-0">
+    </div>
+
+    <div class="col-md-12 mt-3 text-right">
+        <button class="btn btn-success" ng-click="exportToExcel()">
+            Export
+        </button>
+    </div>
+
+    <br />
+
+    <div style="overflow:auto">
+        <table class="table table-bordered table-hover" id="OldEquityHoldingsTbl">
+            <thead style="background-color:#d3d3d3">
+                <tr>
+                    <th>Sr. No.</th>
+                    <th>Display Name</th>
+                    <th>Issuer</th>
+                    <th>Position</th>
+                    <th>Saleable</th>
+                    <th>Underlying Equivalent Position</th>
+                    <th>Industry Sector</th>
+                    <th>Price</th>
+                    <th>Previous EOD Price</th>
+                    <th>Previous Day Futures</th>
+                    <th>Cum Avg Cost</th>
+                    <th>Security Description</th>
+                    <th>Asset Type</th>
+                    <th>Gross Exp / NAV</th>
+                    <th>A Cost Local</th>
+                    <th>Industry</th>
+                    <th>Change</th>
+                    <th>Accrued Interest</th>
+                    <th>Total P&L</th>
+                    <th>Gross MV</th>
+                    <th>ISIN</th>
+                    <th>ACCRINT</th>
+                    <th>Parent Company Name</th>
+                    <th>Account Name</th>
+                    <th>Cusip</th>
+                    <th>Previous Day %</th>
+                    <th>Is Closed</th>
+                    <th>Created Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Data binding -->
+            </tbody>
+        </table>
+    </div>
+
+</div>
+

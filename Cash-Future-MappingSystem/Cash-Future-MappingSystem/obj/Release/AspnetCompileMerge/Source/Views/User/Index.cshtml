@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Users";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*<script src="~/Scripts/jquery-2.2.3.min.js"></script>*@
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item"> <a class="nav-link text-dark" href="javascript:void(0);"><strong>Statistics</strong></a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/User/AddUser">User Master</a> </li>
+    </ul>
+    <hr class="m-0">
+</div>
+<article class="col-md-12">
+    <div class="pt-3">
+        <div class="mb-4"> <a href="/User/AddUser" class="btn btn-secondary float-right ml-1">+</a></div>
+        <div class="form-group col-md-2 btnPosition">
+
+            <button type="button" class="btn btn-primary sm-2" id="exportSubmit">Download Excel</button>
+        </div>
+    </div>
+</article>
+<br />
+<form id="exportData" action="/User/" style="display:none">
+</form>
+<div ng-app="myApp" ng-controller="UserList">
+
+    <div style="overflow:auto">
+
+        <table class="table table-hover table-bordered" id="table_id">
+            <thead>
+                <tr style="background-color: #d3d3d3">
+                    <th>SrNo</th>
+                    <th>Code</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Role</th>
+                    <th>IsActive</th>
+                </tr>
+
+            </thead>
+            <tbody>
+                 
+            </tbody>
+        </table>
+    </div>
+</div> 

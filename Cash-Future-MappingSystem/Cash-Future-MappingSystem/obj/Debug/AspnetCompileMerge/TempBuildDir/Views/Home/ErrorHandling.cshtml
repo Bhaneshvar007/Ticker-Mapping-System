@@ -1,0 +1,45 @@
+﻿
+@{
+    ViewBag.Title = "ErrorHandling";
+}
+
+<style>
+    .btn-back {
+        background-color: #383095;
+        color: #fff;
+    }
+
+        .btn-back:hover {
+            background-color: #2e287a;
+            color: #fff;
+        }
+
+    .error-img {
+         
+        max-width: 150px;
+    }
+</style>
+
+<body class="bg-light">
+
+    <div class="container d-flex align-items-center justify-content-center">
+        <div class="text-center mt-2">
+
+            <img src="~/Images/Error.png"
+                 alt="Something went wrong"
+                 class="img-fluid error-img mt-5">
+
+            <h1 class="fw-bold mb-2">Something Went Wrong</h1>
+
+            <p class="text-muted mb-4">
+                An unexpected error occurred. Please try again or go back.
+            </p>
+
+            <a href="/Home/" class="btn btn-back px-4 py-2">
+                Go Back
+            </a>
+
+        </div>
+    </div>
+</body>
+

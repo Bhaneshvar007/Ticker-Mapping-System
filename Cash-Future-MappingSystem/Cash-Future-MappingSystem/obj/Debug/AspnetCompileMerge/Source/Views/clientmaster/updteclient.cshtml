@@ -1,0 +1,69 @@
+﻿@{
+    ViewBag.Title = "UpdateClientInfo";
+}
+<style>
+    a:hover {
+        text-decoration: none !important;
+    }
+</style>
+<div ng-app="myApp" ng-controller="client" class="container">
+
+    <h3 class="my-4">Update Client</h3>
+    <form class="row g-3">
+
+        <div class="col-md-6">
+            <label class="form-label">Client Name</label>
+            <input type="text" class="form-control" ng-model="model.Client_ID" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Client Name</label>
+            <input type="text" class="form-control" ng-model="model.ClientName" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Account No</label>
+            <input type="text" class="form-control" ng-model="model.AccountNo" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Security ID</label>
+            <input type="text" class="form-control" ng-model="model.SecurityId" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Side</label>
+            <input type="text" class="form-control" ng-model="model.Side" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Quantity</label>
+            <input type="number" class="form-control" ng-model="model.Quantity" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Broker Id</label>
+            <input type="text" class="form-control" ng-model="model.Broker_Id" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Broker</label>
+            <input type="text" class="form-control" ng-model="model.Broker" />
+        </div>
+        
+            <div class="col-sm-2">IsActive</div>
+            <div class="col-sm-3">
+                <div class="form-check">
+                    <input ng-checked="model.isactive" type="checkbox" id="gridCheck1" ng-model="model.isactive" />
+                   
+                </div>
+            </div>
+     
+        <div class="col-12 mt-3">
+            <a href="/clientmaster/Index">
+                <button type="button" class="btn btn-danger">Cancle</button>
+            </a>
+            <button type="button" class="btn btn-primary" ng-click="save()">Update</button>
+        </div>
+    </form>
+</div>

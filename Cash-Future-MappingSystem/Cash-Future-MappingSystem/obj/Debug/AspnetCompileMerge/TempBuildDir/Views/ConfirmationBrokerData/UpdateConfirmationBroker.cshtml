@@ -1,0 +1,75 @@
+﻿
+@{
+    ViewBag.Title = "UpdateConfirmationBroker";
+}
+
+ 
+
+
+
+<style>
+    a:hover {
+        text-decoration: none !important;
+    }
+</style>
+
+<div ng-app="myApp" ng-controller="Broker" class="container">
+
+    <h3 class="my-4">Update Broker</h3>
+    <form class="row g-3">
+
+        <div class="col-md-6">
+            <label class="form-label">Broker ID</label>
+            <input type="text" class="form-control" ng-model="model.Id" disabled />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Account</label>
+            <input type="text" class="form-control" ng-model="model.Account" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Security Code</label>
+            <input type="text" class="form-control" ng-model="model.Security" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Side</label>
+            <input type="text" class="form-control" ng-model="model.Side" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Reason</label>
+            <input type="number" class="form-control" ng-model="model.Reason" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Price</label>
+            <input type="text" class="form-control" ng-model="model.Price" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">Broker</label>
+            <input type="text" class="form-control" ng-model="model.Broker" />
+        </div>
+
+        @*<div class="col-md-6">
+                <input type="checkbox" class="form-check-input" ng-model="model.IsActive" />
+                <label class="form-label">Is Active</label>
+            </div>*@
+        <div class="col-md-6">
+            <label class="form-label">LongNote1</label>
+            <input type="text" class="form-control" ng-model="model.LongNote1" />
+        </div>
+
+        <div class="col-12 mt-3">
+            <button type="button" class="btn btn-danger" ng-click="cancel()">Cancel</button>
+            <button type="button" class="btn btn-primary" ng-click="save()">Update</button>
+        </div>
+
+    </form>
+</div>
+ 
+
+
+

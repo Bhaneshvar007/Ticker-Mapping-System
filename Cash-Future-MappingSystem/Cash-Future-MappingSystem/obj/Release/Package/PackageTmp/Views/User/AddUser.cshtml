@@ -1,0 +1,50 @@
+﻿
+@{
+    ViewBag.Title = "AddUser";
+}
+
+<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item"> <a class="nav-link text-dark" href="/User"><strong>Statistics</strong></a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/User/AddUser">User Master</a> </li>
+    </ul>
+    <hr class="m-0">
+</div>
+<div class="container col-md-4 text-center shadow bg-white rounded mt-5 py-3" style="height:350px; ">
+    @*<h3 class="m-0"><img src="~/Images/logo.png" class="mt-4" alt="Logo" /></h3>*@
+    <h5 class="my-3"><strong>Add User</strong></h5>
+    <form action="/" class="form-horizontal" method="post" role="form">
+
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" id="UserName" name="UserName" placeholder="User Name" required="required" type="text" value="" />
+            <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+        </div>
+
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" id="UserName" name="UserName" placeholder="Email" required="required" type="text" value="" />
+            <span class="glyphicon glyphicon-envelope form-control-feedback"></span>
+        </div>
+
+
+        
+
+        <div class="input-group col-md-12 mb-2">
+            <select class="form-control" aria-label="Default select example">
+                <option>Select Role</option>
+                <option>Admin</option>
+                <option>Analyst</option>
+                <option>Auditor</option>
+            </select>
+        </div>
+
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" id="Password" name="Password" placeholder="Password" required="required" type="password" />
+            <span class="glyphicon glyphicon-lock form-control-feedback"></span>
+        </div>
+
+        <div class="col-md-12 mb-2 mt-3">
+            <input type="submit" value="Create" class="btn text-white btn-block btn-flat"style="background-color:#383095;" />
+        </div>
+    </form>
+</div>
+

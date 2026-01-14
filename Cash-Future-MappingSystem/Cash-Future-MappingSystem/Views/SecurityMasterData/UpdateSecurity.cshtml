@@ -1,0 +1,117 @@
+﻿
+@{
+    ViewBag.Title = "UpdateSecurity";
+}
+
+
+
+<style>
+    a:hover {
+        text-decoration: none !important;
+    }
+</style>
+
+<div ng-app="myApp" ng-controller="security" class="container">
+
+    <h3 class="my-4">Update Security</h3>
+    <form class="row g-3">
+
+        <div class="col-md-6">
+            <label class="form-label">Client Name</label>
+            <input type="text" class="form-control" ng-model="model.Security_ID" disabled />
+        </div>
+
+
+
+        <div class="col-md-6">
+            <label class="form-label">Parent Ticker</label>
+            <input type="text" class="form-control" ng-model="model.Parent_Ticker" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">NSE CODE</label>
+            <input type="text" class="form-control" ng-model="model.NSE_CODE" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">NSE Ticker</label>
+            <input type="text" class="form-control" ng-model="model.NSE_Ticker" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">BSE Ticker</label>
+            <input type="text" class="form-control" ng-model="model.BSE_Ticker" />
+        </div>
+
+        <div class="col-md-6">
+            <label class="form-label">CurrentMonth</label>
+            <input type="text" class="form-control" ng-model="model.CurrentMonth" />
+        </div>
+        @*abhay*@
+        <div class="col-md-6">
+            <label class="form-label">CurrentMonth_BBG</label>
+            <input type="text" class="form-control" ng-model="model.CurrentMonth_BBG" />
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">CurrentMonth_LotSize</label>
+            <input type="text" class="form-control" ng-model="model.CurrentMonth_LotSize" />
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">NextMonth</label>
+            <input type="text" class="form-control" ng-model="model.NextMonth" />
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">Common Ticker</label>
+            <input type="text" class="form-control" ng-model="model.NextMonth_BBG" />
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">NextMonth_LotSize</label>
+            <input type="text" class="form-control" ng-model="model.NextMonth_LotSize" />
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">FarMonth</label>
+            <input type="text" class="form-control" ng-model="model.FarMonth" />
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">FarMonth_BBG</label>
+            <input type="text" class="form-control" ng-model="model.FarMonth_BBG" />
+        </div>
+        <div class="col-md-6">
+            <label class="form-label">FarMonth_LotSizer</label>
+            <input type="text" class="form-control" ng-model="model.FarMonth_LotSize" />
+        </div>
+
+
+
+
+
+
+
+        <div class="col-md-6">
+            <input type="checkbox" class="form-check-input" ng-model="model.IsActive" />
+            <label class="form-label">Is Active</label>
+        </div>
+
+        <div class="col-12 mt-3">
+            <button type="button" class="btn btn-danger" ng-click="cancel()">Cancel</button>
+            <button type="button" class="btn btn-primary" ng-click="save()">Update</button>
+        </div>
+
+    </form>
+</div>
+
+<!-- JS include: controller logic will be in security.js -->
+@*<script src="~/Scripts/security.js"></script>*@
+<script src="~/Scripts/SecurityMaster.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+

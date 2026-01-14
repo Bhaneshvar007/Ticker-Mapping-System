@@ -1,0 +1,1226 @@
+27-Oct-25 11:48:07	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 11:48:25	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 11:50:15	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 11:50:18	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 11:55:30	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 11:56:03	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 14:16:08	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 14:16:29	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 14:28:40	DailyMatchedSummryReport Object reference not set to an instance of an object.
+27-Oct-25 14:28:41	DailyMatchedSummryReport Object reference not set to an instance of an object.
+03-Nov-25 16:28:47	DailyMatchedSummryReport Object reference not set to an instance of an object.
+03-Nov-25 16:28:56	DailyMatchedSummryReport Object reference not set to an instance of an object.
+03-Nov-25 16:32:02	DailyMatchedSummryReport Object reference not set to an instance of an object.
+03-Nov-25 16:32:04	DailyMatchedSummryReport Object reference not set to an instance of an object.
+08-Nov-25 11.32.43	Enter in login controller
+08-Nov-25 11.32.43	user details
+08-Nov-25 11.32.43	that is the Smita Joshi
+08-Nov-25 11.32.43	Request for insert PageAcesslog !
+08-Nov-25 11.32.43	PageAcesslog Req IP : ::1
+08-Nov-25 11.32.43	Inside the pageacess insert/Home
+08-Nov-25 11.32.43	inserted PageAcesslog Sucessfully
+08-Nov-25 11.33.19	Request for insert PageAcesslog !
+08-Nov-25 11.33.19	PageAcesslog Req IP : ::1
+08-Nov-25 11.33.19	Inside the pageacess insert/Reports/BrokerwiseMatchingReport
+08-Nov-25 11.33.19	inserted PageAcesslog Sucessfully
+08-Nov-25 11.33.19	Request for insert PageAcesslog !
+08-Nov-25 11.33.19	PageAcesslog Req IP : ::1
+08-Nov-25 11.33.19	Inside the pageacess insert/Reports/GetBrokerwiseMatchingReport
+08-Nov-25 11.33.19	inserted PageAcesslog Sucessfully
+08-Nov-25 11.33.19	Request for insert PageAcesslog !
+08-Nov-25 11.33.19	PageAcesslog Req IP : ::1
+08-Nov-25 11.33.19	Inside the pageacess insert/Reports/GetBrokerwiseMatchingReport
+08-Nov-25 11.33.19	inserted PageAcesslog Sucessfully
+08-Nov-25 11.34.31	Enter in login controller
+08-Nov-25 11.34.31	user details
+08-Nov-25 11.34.31	that is the Smita Joshi
+08-Nov-25 11.34.32	Request for insert PageAcesslog !
+08-Nov-25 11.34.32	PageAcesslog Req IP : ::1
+08-Nov-25 11.34.32	Inside the pageacess insert/Home
+08-Nov-25 11.34.32	inserted PageAcesslog Sucessfully
+10-Nov-25 16:22:41	GetBrokerFilterDataObject reference not set to an instance of an object.
+10-Nov-25 16:23:00	GetAccountFilterDataObject reference not set to an instance of an object.
+10-Nov-25 16:23:03	GetDailyMatchedSummryReport 1 : 
+10-Nov-25 16:23:03	GetDailyMatchedSummryReport 2 : 
+10-Nov-25 16:23:07	GetDailyMatchedSummryReport 1 : 
+10-Nov-25 16:23:07	GetDailyMatchedSummryReport 2 : 
+10-Nov-25 16:23:42	GetDailyMatchedSummryReport 1 : {
+  "Broker": "broker11",
+  "accountname": "Stirng1"
+}
+10-Nov-25 16:23:49	GetDailyMatchedSummryReport 2 : 
+10-Nov-25 16:24:26	GetDailyMatchedSummryReport 1 : {
+  "Broker": "broker11",
+  "accountname": "Stirng1"
+}
+10-Nov-25 16:24:40	GetDailyMatchedSummryReport 2 : 
+10-Nov-25 16:40:39	GetDailyMatchedSummryReport 2 : 
+10-Nov-25 16:49:38	GetDailyMatchedSummryReport 1 : {
+  "Broker": "broker11",
+  "accountname": "Stirng1"
+}
+10-Nov-25 16:52:42	GetDailyMatchedSummryReport 1 : {
+  "Broker": "broker11",
+  "accountname": "Stirng1"
+}
+10-Nov-25 16:55:35	GetDailyMatchedSummryReport 1 : {
+  "Broker": "broker11",
+  "accountname": "Stirng1"
+}
+10-Nov-25 17:11:07	GetBrokerFilterDataObject reference not set to an instance of an object.
+10-Nov-25 17:11:08	GetAccountFilterDataObject reference not set to an instance of an object.
+10-Nov-25 17:11:12	GetDailyMatchedSummryReport Input JSON : 
+10-Nov-25 17:12:36	GetDailyMatchedSummryReport Input JSON : 
+10-Nov-25 17:12:50	GetDailyMatchedSummryReport Input JSON : {"Broker":"broker11","accountname":"Stirng2"}
+10-Nov-25 17:12:50	GetDailyMatchedSummryReport Params : Broker=, AccountName=Stirng2
+10-Nov-25 17:13:18	GetDailyMatchedSummryReport Input JSON : {"Broker":"broker11","accountname":"Stirng2"}
+10-Nov-25 17:13:41	GetDailyMatchedSummryReport Params : Broker=broker11, AccountName=Stirng2
+11-Nov-25 12:05:34	GetBrokerFilterDataObject reference not set to an instance of an object.
+11-Nov-25 12:05:36	GetAccountFilterDataObject reference not set to an instance of an object.
+11-Nov-25 12:05:38	GetDailyMatchedSummryReport 1 : 
+11-Nov-25 12:06:02	GetDailyMatchedSummryReport 1 : 
+11-Nov-25 12:06:11	GetDailyMatchedSummryReport 1 : {
+  "Broker": "broker11",
+  "accountname": "Stirng1"
+}
+11-Nov-25 13:17:07	GetBrokerFilterDataObject reference not set to an instance of an object.
+11-Nov-25 13:17:12	DailyMatchedSummryReport Object reference not set to an instance of an object.
+11-Nov-25 13:19:37	GetBrokerFilterDataObject reference not set to an instance of an object.
+11-Nov-25 13:19:40	DailyMatchedSummryReport Object reference not set to an instance of an object.
+11-Nov-25 13:21:26	GetBrokerFilterDataObject reference not set to an instance of an object.
+11-Nov-25 13:21:48	DailyMatchedSummryReport Object reference not set to an instance of an object.
+11-Nov-25 13:22:11	GetBrokerFilterDataObject reference not set to an instance of an object.
+11-Nov-25 13:22:17	DailyMatchedSummryReport Object reference not set to an instance of an object.
+12-Nov-25 10:55:45	GetAccountFilterDataObject reference not set to an instance of an object.
+12-Nov-25 10:58:22	GetUserPageAccessLogs !
+12-Nov-25 10:58:24	Get pageaces error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUserPageAccessLogs(DataTable dt) in D:\Bhaneshvar\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 466DT
+12-Nov-25 11:01:43	GetAccountFilterDataObject reference not set to an instance of an object.
+12-Nov-25 11:02:04	GetUserPageAccessLogs !
+12-Nov-25 11:02:07	Get pageaces error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUserPageAccessLogs(DataTable dt) in D:\Bhaneshvar\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 466DT
+12-Nov-25 11:02:40	GetAccountFilterDataObject reference not set to an instance of an object.
+12-Nov-25 11:02:45	GetUserPageAccessLogs !
+12-Nov-25 11:02:46	Get pageaces error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUserPageAccessLogs(DataTable dt) in D:\Bhaneshvar\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 466DT
+12-Nov-25 11:05:26	GetAccountFilterDataObject reference not set to an instance of an object.
+12-Nov-25 11:05:30	GetUserPageAccessLogs !
+12-Nov-25 11:05:31	Get pageaces error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUserPageAccessLogs(DataTable dt) in D:\Bhaneshvar\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 466DT
+12-Nov-25 11:06:42	GetAccountFilterDataObject reference not set to an instance of an object.
+12-Nov-25 11:07:02	GetUserPageAccessLogs !
+12-Nov-25 11:07:05	Get pageaces error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUserPageAccessLogs(DataTable dt) in D:\Bhaneshvar\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 466DT
+12-Nov-25 11:16:02	GetAccountFilterDataObject reference not set to an instance of an object.
+12-Nov-25 11:16:27	Get pageaces error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUserPageAccessLogs(DataTable dt) in D:\Bhaneshvar\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 466DT
+12-Nov-25 11:18:05	GetAccountFilterDataObject reference not set to an instance of an object.
+12-Nov-25 11:18:28	Get pageaces error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUserPageAccessLogs(DataTable dt) in D:\Bhaneshvar\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 466DT
+20-Nov-25 10:12:36	Get User data
+20-Nov-25 10:12:55	Get User error System.NullReferenceException: Object reference not set to an instance of an object.
+   at Cylsys.Common.QueryHandlerBase.GetUsersData(DataTable dt) in D:\Bhaneshvar\CFTMS\Cash-Future-MappingSystem\Cylsys.Common\QueryHandlerBase.cs:line 496DT
+20-Nov-25 10:12:55	User Data count 0
+27-Nov-25 15.07.13	Enter in login controller
+27-Nov-25 15.07.14	user details
+27-Nov-25 15.07.33	Enter in login controller
+27-Nov-25 15.07.33	user details
+27-Nov-25 15.07.33	Welcome Smita Joshi
+27-Nov-25 15.10.01	Enter in login controller
+27-Nov-25 15.10.02	user details
+27-Nov-25 15.10.02	Welcome Smita Joshi
+27-Nov-25 15.11.14	Enter in login controller
+27-Nov-25 15.11.15	user details
+27-Nov-25 15.11.22	Enter in login controller
+27-Nov-25 15.11.23	user details
+27-Nov-25 15.11.23	Welcome Smita Joshi
+27-Nov-25 15.18.30	Enter in login controller
+27-Nov-25 15.18.31	user details
+27-Nov-25 15.18.31	Welcome Smita Joshi
+27-Nov-25 15.23.44	Broker Index
+27-Nov-25 15.25.05	Enter in login controller
+27-Nov-25 15.25.25	user details
+27-Nov-25 15.31.19	Enter in login controller
+27-Nov-25 15.31.34	user details
+27-Nov-25 15.31.34	Welcome Smita Joshi
+27-Nov-25 15.42.49	Broker Index
+27-Nov-25 15.42.50	Broker GetConfirmationBroker
+27-Nov-25 15.42.50	Broker Data 
+27-Nov-25 15.43.30	Broker GetConfirmationBroker
+27-Nov-25 15.43.30	Broker Data 
+27-Nov-25 15.47.20	Broker Index
+27-Nov-25 15.47.21	Broker GetConfirmationBroker
+27-Nov-25 15.47.21	Broker Data 
+27-Nov-25 15.47.21	Broker Data Count 146
+27-Nov-25 15.47.21	Broker GetConfirmationBroker
+27-Nov-25 15.47.22	Broker Data 
+27-Nov-25 15.47.22	Broker Data Count 146
+27-Nov-25 15.49.39	Broker Index
+27-Nov-25 15.49.40	Broker GetConfirmationBroker
+27-Nov-25 15.49.40	Broker Data 
+27-Nov-25 15.49.40	Broker Data Count 146
+27-Nov-25 15.49.40	Broker GetConfirmationBroker
+27-Nov-25 15.49.40	Broker Data 
+27-Nov-25 15.49.40	Broker Data Count 146
+27-Nov-25 15.49.43	Get User data
+27-Nov-25 15.49.44	User Data count 0
+27-Nov-25 15.54.24	Enter in login controller
+27-Nov-25 15.54.25	user details
+27-Nov-25 15.54.25	Welcome Smita Joshi
+27-Nov-25 16.03.52	Enter in login controller
+27-Nov-25 16.03.52	user details
+27-Nov-25 16.03.52	Welcome Smita Joshi
+27-Nov-25 16.04.15	Get User data
+27-Nov-25 16.04.16	User Data count 0
+27-Nov-25 16.04.21	Broker Index
+27-Nov-25 16.04.21	Broker GetConfirmationBroker
+27-Nov-25 16.04.22	Broker Data 
+27-Nov-25 16.04.22	Broker Data Count 146
+27-Nov-25 16.04.22	Broker GetConfirmationBroker
+27-Nov-25 16.04.22	Broker Data 
+27-Nov-25 16.04.22	Broker Data Count 146
+27-Nov-25 16.04.46	Get User data
+27-Nov-25 16.04.46	User Data count 0
+27-Nov-25 16.06.31	Get User data
+27-Nov-25 16.06.43	User Data count 0
+27-Nov-25 16.07.44	Get User data
+27-Nov-25 16.08.40	User Data count 0
+27-Nov-25 16.08.42	Get User data
+27-Nov-25 16.08.44	User Data count 0
+27-Nov-25 16.10.38	Role Added Sucessfully
+27-Nov-25 16.11.31	Get User data
+27-Nov-25 16.11.34	User Data count 1
+27-Nov-25 16.12.35	Get User data
+27-Nov-25 16.12.35	User Data count 3
+27-Nov-25 16.14.49	Enter in login controller
+27-Nov-25 16.14.50	user details
+27-Nov-25 16.14.50	Welcome Smita Joshi
+27-Nov-25 16.15.15	Role Added Sucessfully
+27-Nov-25 16.15.30	Get User data
+27-Nov-25 16.15.30	User Data count 3
+27-Nov-25 16.15.37	Get User data
+27-Nov-25 16.15.37	User Data count 1
+27-Nov-25 16.15.51	Cylsys.Common.UserModel
+27-Nov-25 16.15.52	User created Sucessfully
+27-Nov-25 16.15.55	Get User data
+27-Nov-25 16.15.55	User Data count 3
+27-Nov-25 16.21.30	Get User data
+27-Nov-25 16.21.30	User Data count 3
+28-Nov-25 10.11.37	Enter in login controller
+28-Nov-25 10.11.39	user details
+28-Nov-25 10.11.53	Enter in login controller
+28-Nov-25 10.11.53	user details
+28-Nov-25 10.11.53	Welcome Smita Joshi
+28-Nov-25 10.12.15	Get User data
+28-Nov-25 10.12.15	User Data count 3
+28-Nov-25 16.15.00	Enter in login controller
+28-Nov-25 16.15.01	user details
+28-Nov-25 16.15.01	Welcome Bhaneshvar
+28-Nov-25 16.15.21	Broker Index
+28-Nov-25 16.15.22	Broker GetConfirmationBroker
+28-Nov-25 16.15.22	Broker Data 
+28-Nov-25 16.15.22	Broker Data Count 146
+28-Nov-25 16.15.23	Broker GetConfirmationBroker
+28-Nov-25 16.15.23	Broker Data 
+28-Nov-25 16.15.23	Broker Data Count 146
+28-Nov-25 16.24.59	Enter in login controller
+28-Nov-25 16.25.00	user details
+28-Nov-25 16.25.00	Welcome Bhaneshvar
+28-Nov-25 16.25.23	Get User data
+28-Nov-25 16.25.23	User Data count 3
+28-Nov-25 16.25.25	Get User data
+28-Nov-25 16.25.25	User Data count 1
+28-Nov-25 16.25.38	Cylsys.Common.UserModel
+28-Nov-25 16.25.38	User created Sucessfully
+28-Nov-25 16.25.40	Get User data
+28-Nov-25 16.25.40	User Data count 3
+28-Nov-25 16.25.46	Get User data
+28-Nov-25 16.25.46	User Data count 1
+28-Nov-25 16.25.51	Cylsys.Common.UserModel
+28-Nov-25 16.25.51	User created Sucessfully
+28-Nov-25 16.25.52	Get User data
+28-Nov-25 16.25.52	User Data count 3
+28-Nov-25 16.32.53	Enter in login controller
+28-Nov-25 16.32.55	user details
+28-Nov-25 16.32.55	Welcome Bhaneshvar
+28-Nov-25 16.37.34	Cannot insert the value NULL into column 'IsActive', table 'CFTMS.dbo.tbl_BrokerMasterTemp'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+29-Nov-25 12.11.08	Enter in login controller
+29-Nov-25 12.11.09	user details
+29-Nov-25 12.11.09	Welcome Bhaneshvar
+29-Nov-25 12.15.28	Enter in login controller
+29-Nov-25 12.15.28	user details
+29-Nov-25 12.15.28	Welcome Bhaneshvar
+29-Nov-25 12.16.40	getClientUploadFile
+29-Nov-25 12.16.40	ClientMaster File Path : D:\Cylsys Private Limited\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\BrokerData (2).csv
+29-Nov-25 12.16.40	account
+29-Nov-25 12.16.40	security
+29-Nov-25 12.16.40	price
+29-Nov-25 12.16.40	side
+29-Nov-25 12.16.40	quantity
+29-Nov-25 12.16.40	broker
+29-Nov-25 12.16.40	reason
+29-Nov-25 12.16.40	longnote1
+29-Nov-25 12.16.40	file_name_mast
+29-Nov-25 12.16.40	rsdate
+29-Nov-25 12.16.40	isactive
+29-Nov-25 12.16.40	Client Tbl 1
+29-Nov-25 12.16.40	System.InvalidOperationException: The given ColumnName 'clientname' does not match up with any column in data source.
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerCommon(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\Cylsys Private Limited\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 373
+29-Nov-25 12.23.29	Enter in login controller
+29-Nov-25 12.23.30	user details
+29-Nov-25 12.23.30	Welcome Bhaneshvar
+29-Nov-25 12.27.00	Enter in login controller
+29-Nov-25 12.27.00	user details
+29-Nov-25 12.27.00	Welcome Bhaneshvar
+29-Nov-25 12.33.01	Enter in login controller
+29-Nov-25 12.33.07	user details
+29-Nov-25 12.33.07	Welcome Bhaneshvar
+29-Nov-25 12.40.44	Enter in login controller
+29-Nov-25 12.40.44	user details
+29-Nov-25 12.40.44	Welcome Bhaneshvar
+29-Nov-25 12.51.34	Enter in login controller
+29-Nov-25 12.51.34	user details
+29-Nov-25 12.51.34	Welcome Bhaneshvar
+30-Nov-25 17:32:45	Enter in login controller
+30-Nov-25 17:32:46	user details
+30-Nov-25 17:32:46	Welcome Bhaneshvar
+30-Nov-25 17:33:19	Broker Index
+30-Nov-25 17:33:20	Broker GetConfirmationBroker
+30-Nov-25 17:33:20	Broker Data 
+30-Nov-25 17:33:20	Broker Data Count 146
+30-Nov-25 17:33:20	Broker GetConfirmationBroker
+30-Nov-25 17:33:20	Broker Data 
+30-Nov-25 17:33:20	Broker Data Count 146
+30-Nov-25 17:33:42	Broker Index
+30-Nov-25 17:33:42	Broker GetConfirmationBroker
+30-Nov-25 17:33:42	Broker Data 
+30-Nov-25 17:33:42	Broker Data Count 146
+30-Nov-25 17:33:43	Broker GetConfirmationBroker
+30-Nov-25 17:33:43	Broker Data 
+30-Nov-25 17:33:43	Broker Data Count 146
+30-Nov-25 17:34:26	Broker Index
+30-Nov-25 17:34:26	Broker GetConfirmationBroker
+30-Nov-25 17:34:26	Broker Data 
+30-Nov-25 17:34:26	Broker Data Count 146
+30-Nov-25 17:34:27	Broker GetConfirmationBroker
+30-Nov-25 17:34:27	Broker Data 
+30-Nov-25 17:34:27	Broker Data Count 146
+30-Nov-25 17:50:50	Mappings must be either all name or all ordinal based.
+30-Nov-25 18:09:14	Data Upload Successfully.BrokerData(Sheet1).csv
+30-Nov-25 19:03:17	Enter in login controller
+30-Nov-25 19:03:18	user details
+01-Dec-25 12:38:13	Enter in login controller
+01-Dec-25 12:38:14	user details
+01-Dec-25 12:38:14	Welcome Bhaneshvar
+01-Dec-25 12:41:55	Data Upload Successfully. BrokerData(Sheet1).csv
+01-Dec-25 12:42:21	File Already Uploaded: BrokerData(Sheet1).csv
+01-Dec-25 12:42:46	Broker Index
+01-Dec-25 12:42:46	Broker GetConfirmationBroker
+01-Dec-25 12:42:46	Broker Data 
+01-Dec-25 12:42:46	Broker Data Count 1
+01-Dec-25 12:42:47	Broker GetConfirmationBroker
+01-Dec-25 12:42:47	Broker Data 
+01-Dec-25 12:42:47	Broker Data Count 1
+01-Dec-25 14:23:01	Enter in login controller
+01-Dec-25 14:23:03	user details
+01-Dec-25 14:23:03	Welcome Bhaneshvar
+01-Dec-25 14:23:36	File Already Uploaded: BrokerData(Sheet1).csv
+01-Dec-25 14:27:10	Get User data
+01-Dec-25 14:27:10	User Data count 3
+01-Dec-25 15:03:05	Enter in login controller
+01-Dec-25 15:03:05	user details
+01-Dec-25 15:03:05	Welcome Bhaneshvar
+01-Dec-25 15:03:30	Get User data
+01-Dec-25 15:03:30	User Data count 3
+01-Dec-25 15:03:35	Get User data
+01-Dec-25 15:03:35	User Data count 3
+01-Dec-25 15:03:48	Get User data
+01-Dec-25 15:03:48	User Data count 3
+01-Dec-25 15:04:48	Get User data
+01-Dec-25 15:04:48	User Data count 3
+01-Dec-25 15:10:22	Enter in login controller
+01-Dec-25 15:10:22	user details
+01-Dec-25 15:10:22	Welcome Bhaneshvar
+01-Dec-25 15:12:54	Enter in login controller
+01-Dec-25 15:12:54	user details
+01-Dec-25 15:12:54	Welcome Bhaneshvar
+01-Dec-25 15:23:23	Enter in login controller
+01-Dec-25 15:23:23	user details
+01-Dec-25 15:23:23	Welcome Bhaneshvar
+01-Dec-25 15:41:07	Enter in login controller
+01-Dec-25 15:41:07	user details
+01-Dec-25 15:41:15	Enter in login controller
+01-Dec-25 15:41:15	user details
+01-Dec-25 15:41:15	Welcome Bhaneshvar
+01-Dec-25 15:46:12	Broker Index
+01-Dec-25 15:46:26	Broker Index
+01-Dec-25 15:46:26	Broker GetConfirmationBroker
+01-Dec-25 15:46:26	Broker Data 
+01-Dec-25 15:46:26	Broker Data Count 1
+01-Dec-25 15:46:27	Broker GetConfirmationBroker
+01-Dec-25 15:46:27	Broker Data 
+01-Dec-25 15:46:27	Broker Data Count 1
+01-Dec-25 15:46:49	Data Upload Successfully. BrokerData(Sheet1).csv
+01-Dec-25 15:50:28	Enter in login controller
+01-Dec-25 15:50:28	user details
+01-Dec-25 15:50:28	Welcome Bhaneshvar
+01-Dec-25 15:50:49	Broker Index
+01-Dec-25 15:50:50	Broker GetConfirmationBroker
+01-Dec-25 15:50:50	Broker Data 
+01-Dec-25 15:50:50	Broker Data Count 1
+01-Dec-25 15:50:51	Broker GetConfirmationBroker
+01-Dec-25 15:50:51	Broker Data 
+01-Dec-25 15:50:51	Broker Data Count 1
+01-Dec-25 15:53:10	Broker Index
+01-Dec-25 15:53:10	Broker GetConfirmationBroker
+01-Dec-25 15:53:10	Broker Data 
+01-Dec-25 15:53:10	Broker Data Count 1
+01-Dec-25 15:53:11	Broker GetConfirmationBroker
+01-Dec-25 15:53:11	Broker Data 
+01-Dec-25 15:53:11	Broker Data Count 1
+01-Dec-25 15:54:29	Broker Index
+01-Dec-25 15:54:29	Broker GetConfirmationBroker
+01-Dec-25 15:54:29	Broker Data 
+01-Dec-25 15:54:29	Broker Data Count 1
+01-Dec-25 15:54:29	Broker GetConfirmationBroker
+01-Dec-25 15:54:29	Broker Data 
+01-Dec-25 15:54:29	Broker Data Count 1
+01-Dec-25 15:55:24	Broker Index
+01-Dec-25 15:55:25	Broker GetConfirmationBroker
+01-Dec-25 15:55:25	Broker Data 
+01-Dec-25 15:55:25	Broker Data Count 1
+01-Dec-25 15:55:25	Broker GetConfirmationBroker
+01-Dec-25 15:55:25	Broker Data 
+01-Dec-25 15:55:25	Broker Data Count 1
+01-Dec-25 15:56:12	Broker Index
+01-Dec-25 15:56:12	Broker GetConfirmationBroker
+01-Dec-25 15:56:12	Broker Data 
+01-Dec-25 15:56:12	Broker Data Count 1
+01-Dec-25 15:56:13	Broker GetConfirmationBroker
+01-Dec-25 15:56:13	Broker Data 
+01-Dec-25 15:56:13	Broker Data Count 1
+01-Dec-25 15:56:33	Broker Index
+01-Dec-25 15:56:33	Broker GetConfirmationBroker
+01-Dec-25 15:56:33	Broker Data 
+01-Dec-25 15:56:33	Broker Data Count 1
+01-Dec-25 15:56:33	Broker GetConfirmationBroker
+01-Dec-25 15:56:33	Broker Data 
+01-Dec-25 15:56:33	Broker Data Count 1
+01-Dec-25 15:56:36	Get User data
+01-Dec-25 15:56:36	User Data count 3
+02-Dec-25 11:36:28	Enter in login controller
+02-Dec-25 11:36:29	user details
+02-Dec-25 11:36:29	Welcome Bhaneshvar
+02-Dec-25 12:04:48	Enter in login controller
+02-Dec-25 12:04:49	user details
+02-Dec-25 12:04:49	Welcome Bhaneshvar
+02-Dec-25 12:04:53	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:53	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:53	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:54	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:55	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:55	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:55	get Client Column 'security' does not belong to table .
+02-Dec-25 12:04:55	get Client Column 'security' does not belong to table .
+02-Dec-25 14:00:07	Enter in login controller
+02-Dec-25 14:00:08	user details
+02-Dec-25 14:00:08	Welcome Bhaneshvar
+02-Dec-25 14:00:14	Broker Index
+02-Dec-25 14:00:15	Broker GetConfirmationBroker
+02-Dec-25 14:00:15	Broker Data 
+02-Dec-25 14:00:15	Broker Data Count 1
+02-Dec-25 14:00:15	Broker GetConfirmationBroker
+02-Dec-25 14:00:15	Broker Data 
+02-Dec-25 14:00:15	Broker Data Count 1
+02-Dec-25 14:05:33	getClientUploadFile
+02-Dec-25 14:05:46	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:06:01	accountno
+02-Dec-25 14:06:02	broker
+02-Dec-25 14:06:04	security
+02-Dec-25 14:06:07	quantity
+02-Dec-25 14:06:17	file_name_mast
+02-Dec-25 14:06:22	rsdate
+02-Dec-25 14:06:49	isactive
+02-Dec-25 14:07:15	Client Tbl 1
+02-Dec-25 14:08:28	System.InvalidOperationException: The given ColumnName 'clientname' does not match up with any column in data source.
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerCommon(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate)
+02-Dec-25 14:08:40	getClientUploadFile
+02-Dec-25 14:08:46	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:08:46	accountno
+02-Dec-25 14:08:46	broker
+02-Dec-25 14:08:46	security
+02-Dec-25 14:08:46	quantity
+02-Dec-25 14:08:46	file_name_mast
+02-Dec-25 14:08:46	rsdate
+02-Dec-25 14:08:46	isactive
+02-Dec-25 14:08:46	Client Tbl 1
+02-Dec-25 14:12:10	System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate)
+02-Dec-25 14:18:32	getClientUploadFile
+02-Dec-25 14:18:37	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:18:37	accountno
+02-Dec-25 14:18:37	broker
+02-Dec-25 14:18:37	security
+02-Dec-25 14:18:37	quantity
+02-Dec-25 14:18:37	file_name_mast
+02-Dec-25 14:18:37	rsdate
+02-Dec-25 14:18:37	isactive
+02-Dec-25 14:18:37	Client Tbl 1
+02-Dec-25 14:18:38	System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate)
+02-Dec-25 14:18:44	getClientUploadFile
+02-Dec-25 14:18:46	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:19:08	accountno
+02-Dec-25 14:19:11	broker
+02-Dec-25 14:19:12	security
+02-Dec-25 14:19:14	quantity
+02-Dec-25 14:19:16	file_name_mast
+02-Dec-25 14:19:17	rsdate
+02-Dec-25 14:19:20	isactive
+02-Dec-25 14:23:46	Enter in login controller
+02-Dec-25 14:23:47	user details
+02-Dec-25 14:23:47	Welcome Bhaneshvar
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:56	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:23:57	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:24:19	getClientUploadFile
+02-Dec-25 14:24:22	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:25:12	accountno
+02-Dec-25 14:25:13	broker
+02-Dec-25 14:25:16	security
+02-Dec-25 14:25:18	quantity
+02-Dec-25 14:25:22	Client Tbl 1
+02-Dec-25 14:26:13	System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 365
+02-Dec-25 14:28:44	getClientUploadFile
+02-Dec-25 14:28:46	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData(in).csv
+02-Dec-25 14:29:31	accountno
+02-Dec-25 14:29:35	broker
+02-Dec-25 14:29:37	security
+02-Dec-25 14:29:39	quantity
+02-Dec-25 14:29:42	Client Tbl 1
+02-Dec-25 14:32:20	System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 365
+02-Dec-25 14:32:29	getClientUploadFile
+02-Dec-25 14:32:38	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData(in).csv
+02-Dec-25 14:32:38	accountno
+02-Dec-25 14:32:38	broker
+02-Dec-25 14:32:38	security
+02-Dec-25 14:32:38	quantity
+02-Dec-25 14:32:38	Client Tbl 1
+02-Dec-25 14:33:09	System.InvalidOperationException: The given ColumnMapping does not match up with any column in the source or destination.
+   at System.Data.SqlClient.SqlBulkCopy.AnalyzeTargetAndCreateUpdateBulkCommand(BulkCopySimpleResultSet internalResults)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate)
+02-Dec-25 14:33:14	getClientUploadFile
+02-Dec-25 14:33:15	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData(in).csv
+02-Dec-25 14:33:15	accountno
+02-Dec-25 14:33:15	broker
+02-Dec-25 14:33:15	security
+02-Dec-25 14:33:15	quantity
+02-Dec-25 14:33:15	Client Tbl 1
+02-Dec-25 14:33:18	System.InvalidOperationException: The given ColumnName 'clientname' does not match up with any column in data source.
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerCommon(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate)
+02-Dec-25 14:33:26	getClientUploadFile
+02-Dec-25 14:33:28	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:33:28	accountno
+02-Dec-25 14:33:28	broker
+02-Dec-25 14:33:28	security
+02-Dec-25 14:33:28	quantity
+02-Dec-25 14:33:28	Client Tbl 1
+02-Dec-25 14:35:43	System.InvalidOperationException: The given ColumnName 'clientname' does not match up with any column in data source.
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerCommon(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate)
+02-Dec-25 14:35:47	getClientUploadFile
+02-Dec-25 14:35:48	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:35:48	accountno
+02-Dec-25 14:35:48	broker
+02-Dec-25 14:35:48	security
+02-Dec-25 14:35:48	quantity
+02-Dec-25 14:35:48	Client Tbl 1
+02-Dec-25 14:35:53	Client Data Uploded Successfully
+02-Dec-25 14:36:15	Data Upload Successfully. ClientData.csv
+02-Dec-25 14:36:23	getClientUploadFile
+02-Dec-25 14:36:24	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:36:24	accountno
+02-Dec-25 14:36:24	broker
+02-Dec-25 14:36:24	security
+02-Dec-25 14:36:24	quantity
+02-Dec-25 14:36:24	Client Tbl 1
+02-Dec-25 14:36:27	Client Data Uploded Successfully
+02-Dec-25 14:36:37	File Already Uploaded: ClientData.csv
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:43	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:36:44	get Client Column 'Broker_Id' does not belong to table .
+02-Dec-25 14:41:36	getClientUploadFile
+02-Dec-25 14:41:37	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+02-Dec-25 14:41:37	accountno
+02-Dec-25 14:41:37	broker
+02-Dec-25 14:41:37	security
+02-Dec-25 14:41:37	quantity
+02-Dec-25 14:41:37	Client Tbl 1
+02-Dec-25 14:41:38	Client Data Uploded Successfully
+02-Dec-25 14:41:38	Data Upload Successfully. ClientData.csv
+02-Dec-25 14:45:36	Broker Index
+02-Dec-25 14:45:36	Broker GetConfirmationBroker
+02-Dec-25 14:45:36	Broker Data 
+02-Dec-25 14:45:36	Broker Data Count 1
+02-Dec-25 14:45:37	Broker GetConfirmationBroker
+02-Dec-25 14:45:37	Broker Data 
+02-Dec-25 14:45:37	Broker Data Count 1
+02-Dec-25 15:04:57	Enter in login controller
+02-Dec-25 15:04:58	user details
+02-Dec-25 15:04:58	Welcome Bhaneshvar
+02-Dec-25 16:16:11	Enter in login controller
+02-Dec-25 16:16:11	user details
+02-Dec-25 16:16:22	Enter in login controller
+02-Dec-25 16:16:22	user details
+02-Dec-25 16:16:22	Welcome Bhaneshvar
+02-Dec-25 16:34:55	Enter in login controller
+02-Dec-25 16:34:56	user details
+02-Dec-25 16:34:56	Welcome Bhaneshvar
+02-Dec-25 16:35:04	Broker Data 
+02-Dec-25 16:35:04	Broker Data Count 149
+02-Dec-25 16:36:06	Broker Data 
+02-Dec-25 16:36:06	Broker Data Count 149
+05-Dec-25 10:11:31	Enter in login controller
+05-Dec-25 10:11:32	user details
+05-Dec-25 10:11:32	Welcome Bhaneshvar
+05-Dec-25 10:19:12	Broker Data 
+05-Dec-25 10:19:12	Broker Data Count 149
+05-Dec-25 10:19:12	Broker Data 
+05-Dec-25 10:19:12	Broker Data Count 149
+08-Dec-25 10:32:48	Enter in login controller
+08-Dec-25 10:32:49	user details
+08-Dec-25 10:32:57	Enter in login controller
+08-Dec-25 10:32:57	user details
+08-Dec-25 10:32:57	Welcome Bhaneshvar
+08-Dec-25 10:33:08	Broker Data 
+08-Dec-25 10:33:08	Broker Data Count 149
+08-Dec-25 10:33:08	Broker Data 
+08-Dec-25 10:33:08	Broker Data Count 149
+10-Dec-25 10:54:34	Enter in login controller
+10-Dec-25 10:54:34	user details
+10-Dec-25 10:54:42	Enter in login controller
+10-Dec-25 10:54:42	user details
+10-Dec-25 10:54:42	Welcome Bhaneshvar
+10-Dec-25 10:58:52	Invalid object name 'Security_master'.
+10-Dec-25 11:03:49	   at System.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at System.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at System.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at System.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at System.Data.SqlClient.SqlDataReader.get_MetaData()
+   at System.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean async, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at System.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior, String method)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at MicroORM.DataAccess.ExecuteProcedure(String cProcedureName, SqlParameter[] paramenters) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\MicroORM\DataAccess.cs:line 517
+   at Cash_Future_MappingSystem.BAL.Common2.UploadSecurtyData(String path, String fileName)
+10-Dec-25 11:04:25	Data Upload Successfully. CFTMS_testing Files(Sequ_testing).csv
+10-Dec-25 11:06:57	getClientUploadFile
+10-Dec-25 11:06:57	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\CFTMS_testing Files(Clienttesting).csv
+10-Dec-25 11:06:57	clientname
+10-Dec-25 11:06:57	accountno
+10-Dec-25 11:06:57	broker
+10-Dec-25 11:06:57	quantity
+10-Dec-25 11:06:57	security
+10-Dec-25 11:06:57	Client Tbl 10
+10-Dec-25 11:06:57	Client Data Uploded Successfully
+10-Dec-25 11:06:57	Data Upload Successfully. CFTMS_testing Files(Clienttesting).csv
+10-Dec-25 11:07:39	getClientUploadFile
+10-Dec-25 11:07:39	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\CFTMS_testing Files(Clienttesting).csv
+10-Dec-25 11:07:39	clientname
+10-Dec-25 11:07:39	accountno
+10-Dec-25 11:07:39	broker
+10-Dec-25 11:07:39	quantity
+10-Dec-25 11:07:39	security
+10-Dec-25 11:07:39	Client Tbl 10
+10-Dec-25 11:07:39	Client Data Uploded Successfully
+10-Dec-25 11:07:39	File Already Uploaded: CFTMS_testing Files(Clienttesting).csv
+17-Dec-25 12:29:00	Enter in login controller
+17-Dec-25 12:29:02	user details
+17-Dec-25 12:29:02	Welcome Bhaneshvar
+18-Dec-25 10:12:14	Enter in login controller
+18-Dec-25 10:12:17	user details
+18-Dec-25 10:12:17	Welcome Bhaneshvar
+18-Dec-25 10:36:04	Enter in login controller
+18-Dec-25 10:36:05	user details
+18-Dec-25 10:36:05	Welcome Bhaneshvar
+18-Dec-25 11:01:26	Enter in login controller
+18-Dec-25 11:01:26	user details
+18-Dec-25 11:01:26	Welcome Bhaneshvar
+18-Dec-25 11:11:09	Enter in login controller
+18-Dec-25 11:11:09	user details
+18-Dec-25 11:11:09	Welcome Bhaneshvar
+18-Dec-25 11:11:20	getClientUploadFile
+18-Dec-25 11:11:20	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\CFTMS_testing Files(Clienttesting) (2).csv
+18-Dec-25 11:11:20	clientname
+18-Dec-25 11:11:20	accountno
+18-Dec-25 11:11:20	broker
+18-Dec-25 11:11:20	quantity
+18-Dec-25 11:11:20	security
+18-Dec-25 11:11:20	Client Tbl 10
+18-Dec-25 11:11:20	Client Data Uploded Successfully
+18-Dec-25 11:11:20	Data Upload Successfully. CFTMS_testing Files(Clienttesting) (2).csv
+18-Dec-25 11:11:31	getClientUploadFile
+18-Dec-25 11:11:31	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\CFTMS_testing Files(Clienttesting) (2).csv
+18-Dec-25 11:11:31	clientname
+18-Dec-25 11:11:31	accountno
+18-Dec-25 11:11:31	broker
+18-Dec-25 11:11:31	quantity
+18-Dec-25 11:11:31	security
+18-Dec-25 11:11:31	Client Tbl 10
+18-Dec-25 11:11:31	Client Data Uploded Successfully
+18-Dec-25 11:11:31	File Already Uploaded: CFTMS_testing Files(Clienttesting) (2).csv
+18-Dec-25 15:34:13	Enter in login controller
+18-Dec-25 15:34:14	user details
+18-Dec-25 15:34:24	Enter in login controller
+18-Dec-25 15:34:24	user details
+18-Dec-25 15:34:31	Enter in login controller
+18-Dec-25 15:34:31	user details
+18-Dec-25 15:34:45	Enter in login controller
+18-Dec-25 15:34:45	user details
+18-Dec-25 15:34:46	Welcome Bhaneshvar
+18-Dec-25 15:39:40	Enter in login controller
+18-Dec-25 15:39:42	user details
+18-Dec-25 15:39:42	Welcome Bhaneshvar
+18-Dec-25 16:25:03	Enter in login controller
+18-Dec-25 16:25:04	user details
+18-Dec-25 16:25:04	Welcome Bhaneshvar
+18-Dec-25 16:26:13	Enter in login controller
+18-Dec-25 16:26:13	user details
+18-Dec-25 16:26:13	Welcome Bhaneshvar
+18-Dec-25 16:36:36	The given value of type String from the data source cannot be converted to type bit of the specified target column.
+18-Dec-25 16:41:28	File Already Uploaded: 171225eq(Sheet1).csv
+18-Dec-25 16:42:52	Data Upload Successfully. 171225eq(Sheet1).csv
+18-Dec-25 16:54:30	Enter in login controller
+18-Dec-25 16:54:31	user details
+18-Dec-25 16:54:31	Welcome Bhaneshvar
+18-Dec-25 17:04:50	Enter in login controller
+18-Dec-25 17:04:50	user details
+18-Dec-25 17:04:50	Welcome Bhaneshvar
+18-Dec-25 17:05:01	The given value of type String from the data source cannot be converted to type date of the specified target column.
+18-Dec-25 17:05:17	The given value of type String from the data source cannot be converted to type date of the specified target column.
+18-Dec-25 17:06:12	The given value of type String from the data source cannot be converted to type date of the specified target column.
+18-Dec-25 17:08:03	The given value of type String from the data source cannot be converted to type date of the specified target column.
+18-Dec-25 17:08:50	The given value of type String from the data source cannot be converted to type date of the specified target column.
+18-Dec-25 17:09:27	Data Upload Successfully. 171225(Sheet1).csv
+18-Dec-25 17:21:41	Enter in login controller
+18-Dec-25 17:21:41	user details
+18-Dec-25 17:21:41	Welcome Bhaneshvar
+19-Dec-25 10:25:46	Enter in login controller
+19-Dec-25 10:25:49	user details
+19-Dec-25 10:25:49	Welcome Bhaneshvar
+19-Dec-25 10:26:00	Get User data
+19-Dec-25 10:26:00	User Data count 3
+19-Dec-25 11:18:46	Enter in login controller
+19-Dec-25 11:18:47	user details
+19-Dec-25 11:18:47	Welcome Bhaneshvar
+19-Dec-25 11:31:20	Enter in login controller
+19-Dec-25 11:31:21	user details
+19-Dec-25 11:31:30	Enter in login controller
+19-Dec-25 11:31:30	user details
+19-Dec-25 11:31:30	Welcome Bhaneshvar
+19-Dec-25 11:33:14	Cannot access destination table 'dbo.tbl_FutureHoldingsUploadTemp'.
+19-Dec-25 11:35:38	Cannot access destination table 'dbo.tbl_FutureHoldingsUploadTemp'.
+19-Dec-25 11:36:07	Cannot access destination table 'dbo.tbl_FutureHoldingsUploadTemp'.
+19-Dec-25 11:43:44	Enter in login controller
+19-Dec-25 11:43:44	user details
+19-Dec-25 11:43:44	Welcome Bhaneshvar
+19-Dec-25 11:44:22	Data Upload Successfully. 171225(Sheet1).csv
+19-Dec-25 12:08:30	Enter in login controller
+19-Dec-25 12:08:30	user details
+19-Dec-25 12:08:30	Welcome Bhaneshvar
+19-Dec-25 12:26:46	Enter in login controller
+19-Dec-25 12:26:47	user details
+19-Dec-25 12:26:47	Welcome Bhaneshvar
+19-Dec-25 12:48:52	Enter in login controller
+19-Dec-25 12:48:53	user details
+19-Dec-25 12:48:53	Welcome Bhaneshvar
+19-Dec-25 13:07:28	Enter in login controller
+19-Dec-25 13:07:28	user details
+19-Dec-25 13:07:28	Welcome Bhaneshvar
+19-Dec-25 13:07:43	Data Upload Successfully. 171225eq(Sheet1).csv
+19-Dec-25 13:09:41	File Already Uploaded: 171225eq(Sheet1).csv
+19-Dec-25 13:10:09	File Already Uploaded: 171225eq(Sheet1).csv
+19-Dec-25 13:11:29	File Already Uploaded: 171225eq(Sheet1).csv
+19-Dec-25 13:12:32	Data Upload Successfully. 171225eq(Sheet1).csv
+19-Dec-25 13:12:51	File Already Uploaded: 171225eq(Sheet1).csv
+19-Dec-25 13:14:02	Data Upload Successfully. 171225(Sheet1).csv
+19-Dec-25 16:10:38	Enter in login controller
+19-Dec-25 16:10:38	user details
+19-Dec-25 16:10:38	Welcome Bhaneshvar
+19-Dec-25 16:10:59	The given value of type String from the data source cannot be converted to type bigint of the specified target column.
+19-Dec-25 16:11:18	Data Upload Successfully. 171225(Worksheet).csv
+19-Dec-25 16:17:00	The given value of type String from the data source cannot be converted to type bigint of the specified target column.
+19-Dec-25 16:18:59	The given value of type String from the data source cannot be converted to type decimal of the specified target column.
+19-Dec-25 16:19:58	The given value of type String from the data source cannot be converted to type bigint of the specified target column.
+19-Dec-25 16:22:13	The given value of type String from the data source cannot be converted to type bigint of the specified target column.
+19-Dec-25 16:23:00	Enter in login controller
+19-Dec-25 16:23:00	user details
+19-Dec-25 16:23:00	Welcome Bhaneshvar
+19-Dec-25 16:23:21	Data Upload Successfully. 171225eq(Worksheet).csv
+19-Dec-25 16:29:02	Enter in login controller
+19-Dec-25 16:29:04	user details
+19-Dec-25 16:29:04	Welcome Bhaneshvar
+19-Dec-25 16:30:10	Column 'name' does not belong to table .
+19-Dec-25 16:30:12	The given value of type String from the data source cannot be converted to type bit of the specified target column.
+19-Dec-25 16:30:26	Column 'name' does not belong to table .
+19-Dec-25 16:31:04	The given value of type String from the data source cannot be converted to type bit of the specified target column.
+19-Dec-25 16:31:10	Column 'name' does not belong to table .
+19-Dec-25 16:31:14	Data Upload Successfully. 171225eq(Worksheet).csv
+19-Dec-25 16:34:36	Column 'name' does not belong to table .
+19-Dec-25 16:34:39	Data Upload Successfully. 171225eq(Worksheet).csv
+19-Dec-25 16:38:19	Data Upload Successfully. 171225eq(Worksheet).csv
+19-Dec-25 16:48:17	Enter in login controller
+19-Dec-25 16:48:18	user details
+19-Dec-25 16:48:18	Welcome Bhaneshvar
+19-Dec-25 16:48:38	Data Upload Successfully. 171225(Worksheet).csv
+19-Dec-25 17:20:51	Enter in login controller
+19-Dec-25 17:20:52	user details
+19-Dec-25 17:20:59	Enter in login controller
+19-Dec-25 17:21:00	user details
+19-Dec-25 17:21:00	Welcome Bhaneshvar
+19-Dec-25 17:21:31	Data Upload Successfully. 171225eq(Worksheet).csv
+19-Dec-25 17:21:51	Data Upload Successfully. 171225(Worksheet).csv
+19-Dec-25 17:30:20	Enter in login controller
+19-Dec-25 17:30:22	user details
+19-Dec-25 17:30:22	Welcome Bhaneshvar
+20-Dec-25 10:24:43	Enter in login controller
+20-Dec-25 10:24:43	user details
+20-Dec-25 10:24:43	Welcome Bhaneshvar
+20-Dec-25 10:26:11	Enter in login controller
+20-Dec-25 10:26:11	user details
+20-Dec-25 10:26:11	Welcome Bhaneshvar
+20-Dec-25 10:49:10	Enter in login controller
+20-Dec-25 10:49:10	user details
+20-Dec-25 10:49:10	Welcome Bhaneshvar
+20-Dec-25 11:41:24	Enter in login controller
+20-Dec-25 11:41:25	user details
+20-Dec-25 11:41:25	Welcome Bhaneshvar
+20-Dec-25 11:41:25	Enter in login controller
+20-Dec-25 11:41:25	user details
+20-Dec-25 11:41:25	Welcome Bhaneshvar
+20-Dec-25 12:01:37	Enter in login controller
+20-Dec-25 12:01:37	user details
+20-Dec-25 12:01:37	Welcome Bhaneshvar
+22-Dec-25 10:55:39	Enter in login controller
+22-Dec-25 10:55:40	user details
+22-Dec-25 10:55:40	Welcome Bhaneshvar
+22-Dec-25 11:10:58	Broker GetConfirmationBroker
+22-Dec-25 11:10:58	Broker Data 
+22-Dec-25 11:10:58	Broker Data Count 1
+22-Dec-25 11:10:58	Broker GetConfirmationBroker
+22-Dec-25 11:10:58	Broker Data 
+22-Dec-25 11:10:58	Broker Data Count 1
+22-Dec-25 11:11:47	Data Upload Successfully. Broker Testing.csv
+22-Dec-25 11:11:54	Broker GetConfirmationBroker
+22-Dec-25 11:11:54	Broker Data 
+22-Dec-25 11:11:54	Broker Data Count 94
+22-Dec-25 11:11:55	Broker GetConfirmationBroker
+22-Dec-25 11:11:55	Broker Data 
+22-Dec-25 11:11:55	Broker Data Count 94
+22-Dec-25 12:08:03	Enter in login controller
+22-Dec-25 12:08:03	user details
+22-Dec-25 12:08:04	Welcome Bhaneshvar
+22-Dec-25 12:14:00	Enter in login controller
+22-Dec-25 12:14:01	user details
+22-Dec-25 12:14:01	Welcome Bhaneshvar
+22-Dec-25 12:36:01	Enter in login controller
+22-Dec-25 12:36:01	user details
+22-Dec-25 12:36:01	Welcome Bhaneshvar
+22-Dec-25 15:38:16	Enter in login controller
+22-Dec-25 15:38:18	user details
+22-Dec-25 15:38:18	Welcome Bhaneshvar
+22-Dec-25 15:49:11	Broker GetConfirmationBroker
+22-Dec-25 15:49:12	Broker Data 
+22-Dec-25 15:49:12	Broker Data Count 94
+22-Dec-25 15:49:12	Broker GetConfirmationBroker
+22-Dec-25 15:49:12	Broker Data 
+22-Dec-25 15:49:12	Broker Data Count 94
+22-Dec-25 15:58:12	Broker GetConfirmationBroker
+22-Dec-25 15:58:12	Broker Data 
+22-Dec-25 15:58:12	Broker Data Count 94
+22-Dec-25 15:58:13	Broker GetConfirmationBroker
+22-Dec-25 15:58:13	Broker Data 
+22-Dec-25 15:58:13	Broker Data Count 94
+27-Dec-25 10:20:53	Enter in login controller
+27-Dec-25 10:20:54	user details
+27-Dec-25 10:20:54	Welcome Bhaneshvar
+27-Dec-25 10:27:10	Enter in login controller
+27-Dec-25 10:27:10	user details
+27-Dec-25 10:27:10	Welcome Bhaneshvar
+27-Dec-25 11:29:12	Enter in login controller
+27-Dec-25 11:29:12	user details
+27-Dec-25 11:29:12	Welcome Bhaneshvar
+29-Dec-25 10:13:47	Enter in login controller
+29-Dec-25 10:13:48	user details
+29-Dec-25 10:13:48	Welcome Bhaneshvar
+29-Dec-25 12:17:03	Enter in login controller
+29-Dec-25 12:17:05	user details
+29-Dec-25 12:17:05	Welcome Bhaneshvar
+29-Dec-25 12:18:46	Data Upload Successfully. 171225eq(Worksheet).csv
+29-Dec-25 12:29:59	Enter in login controller
+29-Dec-25 12:29:59	user details
+29-Dec-25 12:29:59	Welcome Bhaneshvar
+29-Dec-25 12:39:08	Enter in login controller
+29-Dec-25 12:39:09	user details
+29-Dec-25 12:39:09	Welcome Smita Joshi
+29-Dec-25 12:47:50	Enter in login controller
+29-Dec-25 12:47:51	user details
+29-Dec-25 12:47:51	Welcome Bhaneshvar
+29-Dec-25 12:59:40	Enter in login controller
+29-Dec-25 12:59:43	user details
+29-Dec-25 12:59:43	Welcome Bhaneshvar
+29-Dec-25 13:01:29	Enter in login controller
+29-Dec-25 13:01:35	user details
+29-Dec-25 13:01:35	Welcome Bhaneshvar
+29-Dec-25 14:23:02	Enter in login controller
+29-Dec-25 14:23:03	user details
+29-Dec-25 14:23:03	Welcome Bhaneshvar
+29-Dec-25 14:23:49	File Already Uploaded: 171225eq(Worksheet).csv
+29-Dec-25 15:15:21	Enter in login controller
+29-Dec-25 15:15:21	user details
+29-Dec-25 15:15:21	Welcome Bhaneshvar
+30-Dec-25 14:50:20	Enter in login controller
+30-Dec-25 14:50:21	user details
+30-Dec-25 14:50:21	Welcome Bhaneshvar
+30-Dec-25 15:22:53	Enter in login controller
+30-Dec-25 15:22:53	user details
+30-Dec-25 15:22:53	Welcome Bhaneshvar
+30-Dec-25 16:01:17	Enter in login controller
+30-Dec-25 16:01:18	user details
+30-Dec-25 16:01:18	Welcome Smita Joshi
+30-Dec-25 16:14:53	Enter in login controller
+30-Dec-25 16:14:54	user details
+30-Dec-25 16:14:54	Welcome Bhaneshvar
+30-Dec-25 16:18:15	Enter in login controller
+30-Dec-25 16:18:15	user details
+30-Dec-25 16:18:15	Welcome Bhaneshvar
+30-Dec-25 16:20:16	Broker Data 
+30-Dec-25 16:20:16	Broker Data Count 150
+30-Dec-25 16:20:16	Broker Data 
+30-Dec-25 16:20:16	Broker Data Count 150
+10-Jan-26 10:15:30	Enter in login controller
+10-Jan-26 10:15:31	user details
+10-Jan-26 10:15:31	Welcome Bhaneshvar
+10-Jan-26 10:51:39	Enter in login controller
+10-Jan-26 10:51:40	user details
+10-Jan-26 10:51:40	Welcome Bhaneshvar
+10-Jan-26 12:29:58	Enter in login controller
+10-Jan-26 12:30:00	user details
+10-Jan-26 12:30:00	Welcome Bhaneshvar
+12-Jan-26 12:19:57	Enter in login controller
+12-Jan-26 12:19:58	user details
+12-Jan-26 12:19:58	Welcome Bhaneshvar
+12-Jan-26 17:22:59	Enter in login controller
+12-Jan-26 17:23:00	user details
+12-Jan-26 17:23:00	Welcome Bhaneshvar
+12-Jan-26 17:29:22	Data Upload Successfully. SequrityMasterData.csv
+12-Jan-26 17:29:31	Data Upload Successfully. broker_confirmation.csv
+12-Jan-26 17:29:44	Data Upload Successfully. Equity_Holdings.csv
+12-Jan-26 17:29:56	Data Upload Successfully. Futures_Holdings.csv
+13-Jan-26 10:09:37	Enter in login controller
+13-Jan-26 10:09:38	user details
+13-Jan-26 10:09:38	Welcome Bhaneshvar
+13-Jan-26 10:11:22	getClientUploadFile
+13-Jan-26 10:11:45	getClientUploadFile
+13-Jan-26 10:11:45	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+13-Jan-26 10:11:45	pk
+13-Jan-26 10:11:45	Client Tbl 102
+13-Jan-26 10:11:45	System.InvalidOperationException: The given ColumnName 'accountno' does not match up with any column in data source.
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerCommon(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 138
+13-Jan-26 10:13:31	getClientUploadFile
+13-Jan-26 10:13:31	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+13-Jan-26 10:13:31	pk
+13-Jan-26 10:13:31	Client Tbl 102
+13-Jan-26 10:13:31	System.InvalidOperationException: The given ColumnName 'accountno' does not match up with any column in data source.
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerCommon(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 138
+13-Jan-26 10:17:48	getClientUploadFile
+13-Jan-26 10:17:48	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData_.csv
+13-Jan-26 10:17:48	clientname
+13-Jan-26 10:17:48	accountno
+13-Jan-26 10:17:48	quantity
+13-Jan-26 10:17:48	security
+13-Jan-26 10:17:48	Client Tbl 161
+13-Jan-26 10:17:48	System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   at System.Data.SqlClient.SqlBulkCopy.ReadWriteColumnValueAsync(Int32 col)
+   at System.Data.SqlClient.SqlBulkCopy.CopyColumnsAsync(Int32 col, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyRowsAsync(Int32 rowsSoFar, Int32 totalRows, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinued(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsync(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 138
+13-Jan-26 10:18:02	getClientUploadFile
+13-Jan-26 10:18:02	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData.csv
+13-Jan-26 10:18:02	pk
+13-Jan-26 10:18:02	Client Tbl 102
+13-Jan-26 10:18:02	System.InvalidOperationException: The given ColumnName 'accountno' does not match up with any column in data source.
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerCommon(Int32 columnCount)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 138
+13-Jan-26 10:19:35	getClientUploadFile
+13-Jan-26 10:19:35	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData_.csv
+13-Jan-26 10:19:35	accountno
+13-Jan-26 10:19:35	quantity
+13-Jan-26 10:19:35	security
+13-Jan-26 10:19:35	Client Tbl 161
+13-Jan-26 10:19:35	System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   at System.Data.SqlClient.SqlBulkCopy.ReadWriteColumnValueAsync(Int32 col)
+   at System.Data.SqlClient.SqlBulkCopy.CopyColumnsAsync(Int32 col, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyRowsAsync(Int32 rowsSoFar, Int32 totalRows, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinued(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsync(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 138
+13-Jan-26 10:19:47	getClientUploadFile
+13-Jan-26 10:19:50	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData_.csv
+13-Jan-26 10:20:20	getClientUploadFile
+13-Jan-26 10:20:22	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData_.csv
+13-Jan-26 10:20:45	accountno
+13-Jan-26 10:20:47	quantity
+13-Jan-26 10:20:51	security
+13-Jan-26 10:20:57	Client Tbl 161
+13-Jan-26 10:21:26	System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   at System.Data.SqlClient.SqlBulkCopy.ReadWriteColumnValueAsync(Int32 col)
+   at System.Data.SqlClient.SqlBulkCopy.CopyColumnsAsync(Int32 col, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyRowsAsync(Int32 rowsSoFar, Int32 totalRows, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinued(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsync(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 138
+13-Jan-26 10:33:09	getClientUploadFile
+13-Jan-26 10:33:11	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData_.csv
+13-Jan-26 10:33:12	accountno
+13-Jan-26 10:33:12	quantity
+13-Jan-26 10:33:13	security
+13-Jan-26 10:33:13	Client Tbl 161
+13-Jan-26 10:42:36	System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   at System.Data.SqlClient.SqlBulkCopy.ReadWriteColumnValueAsync(Int32 col)
+   at System.Data.SqlClient.SqlBulkCopy.CopyColumnsAsync(Int32 col, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyRowsAsync(Int32 rowsSoFar, Int32 totalRows, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinued(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsync(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 138
+13-Jan-26 10:42:45	getClientUploadFile
+13-Jan-26 10:42:48	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\CFTMS_testing Files(Clienttesting) (4).csv
+13-Jan-26 10:42:50	accountno
+13-Jan-26 10:42:50	quantity
+13-Jan-26 10:42:50	security
+13-Jan-26 10:42:51	Client Tbl 161
+13-Jan-26 10:43:03	System.InvalidOperationException: The given value of type String from the data source cannot be converted to type int of the specified target column. ---> System.FormatException: Failed to convert parameter value from a String to a Int32. ---> System.FormatException: Input string was not in a correct format.
+   at System.Number.StringToNumber(String str, NumberStyles options, NumberBuffer& number, NumberFormatInfo info, Boolean parseDecimal)
+   at System.Number.ParseInt32(String s, NumberStyles style, NumberFormatInfo info)
+   at System.String.System.IConvertible.ToInt32(IFormatProvider provider)
+   at System.Convert.ChangeType(Object value, Type conversionType, IFormatProvider provider)
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlParameter.CoerceValue(Object value, MetaType destinationType, Boolean& coercedToDataFeed, Boolean& typeChanged, Boolean allowStreaming)
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   --- End of inner exception stack trace ---
+   at System.Data.SqlClient.SqlBulkCopy.ConvertValue(Object value, _SqlMetaData metadata, Boolean isNull, Boolean& isSqlType, Boolean& coercedToDataFeed)
+   at System.Data.SqlClient.SqlBulkCopy.ReadWriteColumnValueAsync(Int32 col)
+   at System.Data.SqlClient.SqlBulkCopy.CopyColumnsAsync(Int32 col, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyRowsAsync(Int32 rowsSoFar, Int32 totalRows, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsyncContinued(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.CopyBatchesAsync(BulkCopySimpleResultSet internalResults, String updateBulkCommandText, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestContinuedAsync(BulkCopySimpleResultSet internalResults, CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalRestAsync(CancellationToken cts, TaskCompletionSource`1 source)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServerInternalAsync(CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteRowSourceToServerAsync(Int32 columnCount, CancellationToken ctoken)
+   at System.Data.SqlClient.SqlBulkCopy.WriteToServer(DataTable table, DataRowState rowState)
+   at Cash_Future_MappingSystem.BAL.Common2.UploadClientData(String path, String fileName, DateTime Rsdate) in D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\BAL\common2.cs:line 138
+13-Jan-26 10:44:54	getClientUploadFile
+13-Jan-26 10:44:55	ClientMaster File Path : D:\All Cylsys Project\CFTMS\Cash-Future-MappingSystem\Cash-Future-MappingSystem\Uploadfiles\ClientMaster\ClientData_.csv
+13-Jan-26 10:44:55	accountno
+13-Jan-26 10:44:55	security
+13-Jan-26 10:44:55	quantity
+13-Jan-26 10:44:55	Client Tbl 161
+13-Jan-26 10:45:02	Client Data Uploded Successfully
+13-Jan-26 10:45:02	Data Upload Successfully. ClientData_.csv
+13-Jan-26 10:45:14	Process completed successfully!
+13-Jan-26 11:23:33	Broker GetConfirmationBroker
+13-Jan-26 11:23:33	Broker Data 
+13-Jan-26 11:23:33	Broker Data Count 292
+13-Jan-26 11:23:33	Broker GetConfirmationBroker
+13-Jan-26 11:23:34	Broker Data 
+13-Jan-26 11:23:34	Broker Data Count 292
+13-Jan-26 12:13:37	Enter in login controller
+13-Jan-26 12:13:37	user details
+13-Jan-26 12:13:37	Welcome Bhaneshvar
+13-Jan-26 12:49:18	Enter in login controller
+13-Jan-26 12:49:20	user details
+13-Jan-26 12:49:20	Welcome Bhaneshvar
+13-Jan-26 14:40:30	Enter in login controller
+13-Jan-26 14:40:30	user details
+13-Jan-26 14:40:30	Welcome Bhaneshvar
+13-Jan-26 14:41:47	Data Upload Successfully. SequrityMasterData.csv
+13-Jan-26 14:41:57	Broker GetConfirmationBroker
+13-Jan-26 14:41:57	Broker Data 
+13-Jan-26 14:41:57	Broker Data Count 292
+13-Jan-26 14:41:58	Broker GetConfirmationBroker
+13-Jan-26 14:41:58	Broker Data 
+13-Jan-26 14:41:58	Broker Data Count 292
+13-Jan-26 14:48:22	Process completed successfully!
+13-Jan-26 15:29:11	Enter in login controller
+13-Jan-26 15:29:11	user details
+13-Jan-26 15:29:11	Welcome Bhaneshvar
+13-Jan-26 16:34:28	Enter in login controller
+13-Jan-26 16:34:29	user details
+13-Jan-26 16:34:29	Welcome Bhaneshvar

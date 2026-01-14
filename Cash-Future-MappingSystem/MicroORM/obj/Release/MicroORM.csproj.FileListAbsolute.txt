@@ -1,0 +1,104 @@
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\MicroORM.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\MicroORM.pdb
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\Cylsys.Common.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\MySql.Data.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\System.ValueTuple.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\Newtonsoft.Json.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\Google.Protobuf.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\Zstandard.Net.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\BouncyCastle.Crypto.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\Ubiety.Dns.Core.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\Renci.SshNet.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\System.Memory.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\System.Buffers.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\K4os.Compression.LZ4.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\K4os.Hash.xxHash.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\Cylsys.Common.pdb
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\MySql.Data.xml
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\System.ValueTuple.xml
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\bin\Release\Newtonsoft.Json.xml
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\obj\Release\MicroORM.csprojAssemblyReference.cache
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\obj\Release\MicroORM.csproj.CoreCompileInputs.cache
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\obj\Release\MicroORM.csproj.CopyComplete
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\obj\Release\MicroORM.dll
+D:\cylsysProjects\VPM-Project\VPM05032021\VPM\MicroORM\obj\Release\MicroORM.pdb
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\MicroORM.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\MicroORM.pdb
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\Cylsys.Common.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\MySql.Data.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\System.ValueTuple.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\Newtonsoft.Json.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\Google.Protobuf.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\Zstandard.Net.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\K4os.Compression.LZ4.Streams.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\BouncyCastle.Crypto.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\Ubiety.Dns.Core.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\Renci.SshNet.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\System.Memory.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\System.Buffers.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\K4os.Compression.LZ4.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\K4os.Hash.xxHash.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\Cylsys.Common.pdb
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\MySql.Data.xml
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\System.ValueTuple.xml
+D:\cylsysProjects\RM-Project\RM\MicroORM\bin\Release\Newtonsoft.Json.xml
+D:\cylsysProjects\RM-Project\RM\MicroORM\obj\Release\MicroORM.csprojAssemblyReference.cache
+D:\cylsysProjects\RM-Project\RM\MicroORM\obj\Release\MicroORM.csproj.CoreCompileInputs.cache
+D:\cylsysProjects\RM-Project\RM\MicroORM\obj\Release\MicroORM.csproj.CopyComplete
+D:\cylsysProjects\RM-Project\RM\MicroORM\obj\Release\MicroORM.dll
+D:\cylsysProjects\RM-Project\RM\MicroORM\obj\Release\MicroORM.pdb
+D:\RM\MicroORM\bin\Release\MicroORM.dll
+D:\RM\MicroORM\bin\Release\MicroORM.pdb
+D:\RM\MicroORM\bin\Release\Cylsys.Common.dll
+D:\RM\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+D:\RM\MicroORM\bin\Release\System.Threading.Tasks.Extensions.dll
+D:\RM\MicroORM\bin\Release\System.ValueTuple.dll
+D:\RM\MicroORM\bin\Release\Newtonsoft.Json.dll
+D:\RM\MicroORM\bin\Release\Cylsys.Common.pdb
+D:\RM\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\RM\MicroORM\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\RM\MicroORM\bin\Release\System.ValueTuple.xml
+D:\RM\MicroORM\bin\Release\Newtonsoft.Json.xml
+D:\RM\MicroORM\obj\Release\MicroORM.csproj.CoreCompileInputs.cache
+D:\RM\MicroORM\obj\Release\MicroORM.csproj.CopyComplete
+D:\RM\MicroORM\obj\Release\MicroORM.dll
+D:\RM\MicroORM\obj\Release\MicroORM.pdb
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\MicroORM.dll
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\MicroORM.pdb
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\Cylsys.Common.dll
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\System.ValueTuple.dll
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\Newtonsoft.Json.dll
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\Cylsys.Common.pdb
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\System.Threading.Tasks.Extensions.xml
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\System.ValueTuple.xml
+F:\Cylsys_work\RM\RM\MicroORM\bin\Release\Newtonsoft.Json.xml
+F:\Cylsys_work\RM\RM\MicroORM\obj\Release\MicroORM.csproj.CoreCompileInputs.cache
+F:\Cylsys_work\RM\RM\MicroORM\obj\Release\MicroORM.csproj.CopyComplete
+F:\Cylsys_work\RM\RM\MicroORM\obj\Release\MicroORM.dll
+F:\Cylsys_work\RM\RM\MicroORM\obj\Release\MicroORM.pdb
+F:\Cylsys_work\RM\RM\MicroORM\obj\Release\MicroORM.csprojAssemblyReference.cache
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\bin\Release\MicroORM.dll
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\bin\Release\MicroORM.pdb
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\bin\Release\Cylsys.Common.dll
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\bin\Release\System.ValueTuple.dll
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\bin\Release\Newtonsoft.Json.dll
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\bin\Release\Cylsys.Common.pdb
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\bin\Release\System.Threading.Tasks.Extensions.xml
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\obj\Release\MicroORM.csproj.AssemblyReference.cache
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\obj\Release\MicroORM.csproj.CoreCompileInputs.cache
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\obj\Release\MicroORM.csproj.CopyComplete
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\obj\Release\MicroORM.dll
+D:\Bhaneshvar\New folder\Cash-Future-MappingSystem\MicroORM\obj\Release\MicroORM.pdb

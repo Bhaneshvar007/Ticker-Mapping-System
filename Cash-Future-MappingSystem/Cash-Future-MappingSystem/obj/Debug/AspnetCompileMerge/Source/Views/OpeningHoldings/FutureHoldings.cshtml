@@ -1,0 +1,58 @@
+﻿@{
+    ViewBag.Title = "Future Holdings";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div ng-app="myApp" ng-controller="FutureHoldingsMasterCtrl">
+
+    <div class="col-md-12 p-0">
+        <ul class="nav d-flex">
+            <li class="nav-item">
+                <a class="nav-link text-dark" href="javascript:void(0);">
+                    <strong>Statistics</strong>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/OpeningHoldings/FutureHoldingsUpload">
+                    Future Holdings
+                </a>
+            </li>
+        </ul>
+        <hr class="m-0">
+    </div>
+
+    <div class="col-md-12 mt-3 text-right">
+        <button class="btn btn-success" ng-click="exportToExcel()">
+            Export
+        </button>
+    </div>
+
+    <br />
+
+    <div style="overflow:auto">
+        <table class="table table-bordered table-hover" id="FutureHoldingsTbl">
+            <thead style="background-color:#d3d3d3">
+                <tr>
+                    <th>Sr. No.</th>
+                    <th>Display Name</th>
+                    <th>Account Code</th>
+                    <th>Account Name</th>
+                    <th>Name</th>
+                    <th>Security Description</th>
+                    <th>Position</th>
+                    <th>Underlying Eq Position</th>
+                    <th>Market Value (Local)</th>
+                    <th>Price</th>
+                    <th>Expiration Date</th>
+                    <th>Issuer</th>
+                    <th>Is Closed</th>
+                    <th>Created Date</th>
+                </tr>
+            </thead>
+            <tbody>
+                 
+            </tbody>
+        </table>
+    </div>
+
+</div>

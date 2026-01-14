@@ -1,0 +1,49 @@
+﻿<script>
+    var initialUser = JSON.parse('@Html.Raw(ViewBag.UserData)');
+</script>
+
+<div ng-app="myApp" ng-controller="User"
+     class="container col-md-4 text-center shadow bg-white rounded mt-5 py-3" style="height:430px;">
+    <h5 class="my-3"><strong>Update User</strong></h5>
+
+    <form class="form-horizontal" role="form">
+
+        <input class="form-control" ng-model="model.ID" hidden required type="text" />
+
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" ng-model="model.Code" placeholder="User Code" required type="text" />
+        </div>
+
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" ng-model="model.Name" placeholder="User Name" required type="text" />
+        </div>
+
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" ng-model="model.Email" placeholder="Email" required type="email" />
+        </div>
+
+        <div class="input-group col-md-12 mb-2">
+            <select class="form-control" ng-model="model.role_id" required>
+                <option value="">Select Role</option>
+                @if (ViewBag.roleData != null)
+                {
+                    foreach (var role in ViewBag.roleData)
+                    {
+                        <option ng-value="@role.ID">@role.Name</option>
+                    }
+                }
+            </select>
+        </div>
+
+        <div class="input-group col-md-12 mb-2">
+            <input class="form-control" ng-model="model.Password" placeholder="Password" required type="password" />
+        </div>
+
+        <div class="mb-2 mt-3 text-left ml-3">
+            <button type="button" class="btn btn-primary" ng-click="updateUser()">Update</button>
+            <button type="button" class="btn btn-danger" ng-click="cancel()">Cancel</button>
+        </div>
+
+    </form>
+</div>
+

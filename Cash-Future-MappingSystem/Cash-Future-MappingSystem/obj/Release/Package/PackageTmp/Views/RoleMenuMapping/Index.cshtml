@@ -1,0 +1,89 @@
+﻿
+
+@{
+    ViewBag.Title = "Role";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*<script src="~/Scripts/jquery-2.2.3.min.js"></script>*@
+
+@*<div class="col-md-12 p-0">
+    <ul class="nav">
+        <li class="nav-item"> <a class="nav-link text-dark" href="javascript:void(0);"><strong>Statistics</strong></a> </li>
+        <li class="nav-item"> <a class="nav-link" href="/Role/AddRole">User Master</a> </li>
+    </ul>
+    <hr class="m-0">
+</div>*@
+<article class="col-md-12">
+    <div class="pt-3">
+        @*<div class="mb-4"> <a href="/Role/AddRole" class="btn btn-secondary float-right ml-1">+</a></div>*@
+        <div class="form-group col-md-2 btnPosition float-right">
+
+            <button type="button" class="btn btn-primary sm-2 " id="exportSubmit">Download Excel</button>
+        </div>
+    </div>
+</article>
+@*<br />*@
+@*<hr />*@
+ 
+<div controller="UserList">
+
+    <div style="overflow:auto">
+
+        <div class="input-group col-md-2 mb-3">
+            <select class="form-control" aria-label="Default select example">
+                <option>Select Role</option>
+                <option>Admin</option>
+                <option>Analyst</option>
+                <option>Auditor</option>
+            </select>
+        </div>
+
+        <table class="table table-hover table-bordered col-md-5 ml-3 rounded-2" id="table_id">
+            <thead>
+                <tr style="background-color:#d3d3d3">
+                    <th>SrNo</th>
+                    <th>
+                        Select @*<input type="checkbox" />*@
+                    </th>
+                    <th>Menu Name</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>
+                        <input type="checkbox" />
+                    </td>
+                    <td>Broker master</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>
+                        <input type="checkbox" />
+                    </td>
+                    <td>
+                        Cash Trades Module
+                    </td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>
+                        <input type="checkbox" />
+                    </td>
+                    <td>Future Trades Module</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>
+                        <input type="checkbox" />
+                    </td>
+                    <td>Client Master</td>
+                </tr>
+
+            </tbody>
+        </table>
+
+        <button class="btn text-white ml-3" style="background-color:#383095; color:white;">Submit</button>
+ 
+    </div>
+</div> 
